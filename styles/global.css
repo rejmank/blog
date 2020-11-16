@@ -1,5 +1,17 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
+
+@font-face {
+  font-family: "Aliee";
+  src: url(/fonts/aliee13.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Consola";
+  src: url(/fonts/CONSOLA.TTF);
+}
+
 @import "tailwindcss/utilities";
 
 a {

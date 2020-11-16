@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <Layout>
       <SEO title="All posts" />
-      <Bio className="my-14" />
+      <Bio className="my-5" />
       {posts.map(({ frontmatter: { title, description, date }, slug }) => (
         <article key={slug}>
           <header className="mb-2">

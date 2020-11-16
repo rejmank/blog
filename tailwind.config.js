@@ -1,33 +1,12 @@
-const defaultSans = [
-  "system-ui",
-  "-apple-system",
-  "BlinkMacSystemFont",
-  '"Segoe UI"',
-  "Roboto",
-  '"Helvetica Neue"',
-  "Arial",
-  '"Noto Sans"',
-  "sans-serif",
-  '"Apple Color Emoji"',
-  '"Segoe UI Emoji"',
-  '"Segoe UI Symbol"',
-  '"Noto Color Emoji"',
-];
 
-const defaultSerif = [
-  "Georgia",
-  "Cambria",
-  '"Times New Roman"',
-  "Times",
-  "serif",
-];
 
 module.exports = {
   purge: ["./**/{pages,components,tailwind}/**/*.{js,jsx,ts,tsx,css}"],
   theme: {
     extend: {
       colors: {
-        "neon-orange": "#f92300",
+        "neon-orange": "#d2793f",
+        "orange": {600:"#c1a1d0"}
       },
       fontSize: {
         "7xl": "4.5rem",
@@ -35,15 +14,15 @@ module.exports = {
       spacing: {
         14: "3.375rem",
       },
-    },
-    fontFamily: {
-      display: ["Open Sans", ...defaultSans],
-      body: ["Merriweather", ...defaultSerif],
+      fontFamily: {
+       display: ["Aliee"],
+       body: ["Consola"]
+       },
     },
     typography: (theme) => ({
       default: {
         css: {
-          color: theme("colors.gray.900"),
+          color: theme("colors.blue.900"),
           blockquote: {
             borderLeftColor: theme("colors.gray.700"),
           },
@@ -54,7 +33,7 @@ module.exports = {
             backgroundColor: theme("colors.gray.700"),
           },
           a: {
-            color: "#f92300",
+            color: "#c1a1d0",
           },
         },
       },
