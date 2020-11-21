@@ -1,0 +1,1 @@
+{"ast":null,"code":"import SiteConfig from \"../site.config\";\nexport function getSiteMetaData() {\n  return SiteConfig.siteMetadata;\n}","map":null,"metadata":{},"sourceType":"module"}
