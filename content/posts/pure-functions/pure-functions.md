@@ -56,7 +56,7 @@ Writing big bloated functions that are also pure is hard. I often find myself wo
 
 ### Purity helps to reason about code
 
-There are simply fewer moving parts. That means that fewer things can be broken. That means fewer things to think of.
+There are simply fewer moving parts. That means that fewer things can be broken. In pure functions only thing that can be broken is function logic.
 
 ## Conclusion
 
