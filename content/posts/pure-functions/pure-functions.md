@@ -10,9 +10,9 @@ Starting with functional programming is hard. There is a ton of new concepts to 
 
 ## What are pure functions?
 
-In short pure functions are functions that have no side effect and for each combination of parameters they return the same output. In reality, that means that you cannot request a database, make HTTP requests, or use random inside them or call functions that do so. No side effect means that they cannot change anything, not event their inputs. If you want to know more about pure function [this is a good start] (https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
+In short pure functions are functions that have no side effect and for each combination of parameters they return the same output. In reality, that means that you cannot request a database, make HTTP requests, use random inside them or call functions that do so. No side effect means that they cannot change anything, not event their inputs. If you want to know more about pure function [this is a good start](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
 
-## Pure functions guide to better architecture
+## Pure functions are guide to better architecture
 
 Using pure function means that you restrict yourself. That restriction forces you to think of better solutions for your problems. Recently I wrote an app that needed to work with a date. The first solution I think of was something like this:
 
@@ -50,11 +50,11 @@ function workWithDate(date) {
 
 I started to like writing tests since I started to write pure functions. The reason is that with pure functions the tests take almost no effort. You just import the function, throw some values at it, and look at the results. There is no mocking, no setup just values. Of course, you have to test the dirty parts of your app too, but the dirty parts are usually significantly smaller.
 
-### Purity helps keep functions small and focused
+### Pure functions helps keep functions small and focused
 
 Writing big bloated functions that are also pure is hard. I often find myself wondering how to avoid mutation and often the answer is: split the function! This gives you the benefit of better composability and it is much easier to reason about a small function that has single responsibility rather than a big bloated function.
 
-### Purity helps to reason about code
+### Using pure functions helps to reason about code
 
 There are simply fewer moving parts. That means that fewer things can be broken. In pure functions only thing that can be broken is function logic.
 
