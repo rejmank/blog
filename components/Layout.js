@@ -29,7 +29,7 @@ export default function Layout({ children }) {
     <div className="max-w-screen-sm px-4 py-12 mx-auto antialiased font-body">
       <header className="text-center flex content-center">
     {isRoot ? <Image
-        className="flex-shrink-0 mb-0 mr-3 w-40 h-46"
+        className="object-scale-down flex-shrink-0 mb-0 mr-3 w-40 h-46"
         src={require("../content/assets/profile.png")}
         webpSrc={require("../content/assets/profile.png?webp")}
         previewSrc={require("../content/assets/profile.png?lqip")}
