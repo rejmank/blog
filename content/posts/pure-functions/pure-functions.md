@@ -1,7 +1,7 @@
 ---
 title: Pure functions
 description: Is pure functions the most beautifull concept in programming?
-date: 2020-04-19T11:00:00.000Z
+date: 2020-12-01T11:00:00.000Z
 ---
 
 # The beauty of pure functions
