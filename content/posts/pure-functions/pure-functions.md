@@ -10,7 +10,7 @@ Starting with functional programming is hard. There is a ton of new concepts to 
 
 ## What are pure functions?
 
-In short pure functions are functions that have no side effect and for each combination of parameters they return the same output. In reality, that means that you cannot request a database, make HTTP requests, use random inside them or call functions that do so. No side effect means that they cannot change anything, not event their inputs. If you want to know more about pure function [this is a good start](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
+In short pure functions are functions that have no side effect and for each combination of parameters they return the same output. In reality, that means that you cannot request a database, make HTTP requests, use random inside them or call functions that do so. No side effect means that they cannot change anything, not event their inputs. If you want to know more about pure function [this is a good start](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/).
 
 ## Pure functions are guide to better architecture
 
@@ -26,7 +26,7 @@ function doingDirtyThings() {
 function workWithDate() {
   const date = new Date();
   // work with date...
-  return data;
+  return someData;
 }
 ```
 
@@ -42,7 +42,7 @@ function doingDirtyThings() {
 
 function workWithDate(date) {
   // work with date...
-  return data;
+  return someData;
 }
 ```
 
@@ -60,4 +60,4 @@ There are simply fewer moving parts. That means that fewer things can be broken.
 
 ## Conclusion
 
-If there is one concept from functional programming you should know its pure functions. As soon as you write a few of them you will encounter other benefits as easier composability etc. I hope that this article encouraged you to write more pure functions, the world needs it.
+If there is one concept from functional programming you should know it is pure functions. As soon as you write a few of them you will encounter other benefits as easier composability etc. I hope that this article encouraged you to write more pure functions, the world needs it.
