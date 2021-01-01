@@ -1,3 +1,9 @@
+---
+title: 2020 a year in review
+description: How was 2020 for me? And what I would like to do in 2021?
+date: 2020-01-01T14:00:00.000Z
+---
+
 # 2020 a year in review 
 
 For me the year 2020 was pretty good. This is a look back at the last year with an evaluation of my goals and setting up some goals for next year. 
