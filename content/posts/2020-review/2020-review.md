@@ -1,7 +1,7 @@
 ---
 title: 2020 a year in review
 description: How was 2020 for me? And what I would like to do in 2021?
-date: 2020-01-01T14:00:00.000Z
+date: 2021-01-01T14:00:00.000Z
 ---
 
 # 2020 a year in review 
