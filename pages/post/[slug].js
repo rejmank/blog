@@ -29,11 +29,7 @@ export default function Post({ post, frontmatter, nextPost, slug, previousPost }
     <Layout>
       <Head>
       <meta name="twitter:card" content="summary_large_image"/>
-      <meta name="twitter:site" content="@rejmank1"/>
-      <meta name="twitter:creator" content="@rejmank1"/>
-<meta name="twitter:title" content={frontmatter.title}/>
-
-<meta name="twitter:image" content={`https://rejmank.com/twitter-cards/${slug}.png`}/>
+      <meta name="twitter:image" content={`https://rejmank.com/twitter-cards/${slug}.png`}/>
       </Head>
       <SEO
         title={frontmatter.title}

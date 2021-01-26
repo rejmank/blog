@@ -19,7 +19,7 @@ export default function SEO({ title, description = "" }) {
         property="og:description"
         content={metaDescription}
       />
-      <meta name="twitter:card" content="summary" />
+   
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       <meta name="twitter:creator" content={siteMetadata.social.twitter} />
