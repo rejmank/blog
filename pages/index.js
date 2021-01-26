@@ -6,6 +6,7 @@ import SEO from "components/Seo";
 import { getSortedPosts } from "utils/posts";
 
 export default function Home({ posts }) {
+  console.log(posts)
   return (
     <Layout>
       <SEO title="All posts" />

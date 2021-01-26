@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ReactMarkdown from "react-markdown/with-html";
+import Head from 'next/head'
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 
 import Layout from "components/Layout";
@@ -23,8 +24,17 @@ const MarkdownImage = ({ alt, src }) => (
 );
 
 export default function Post({ post, frontmatter, nextPost, previousPost }) {
+  console.log(post, frontmatter )
   return (
     <Layout>
+      <Head>
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:site" content="@rejmank1"/>
+      <meta name="twitter:creator" content="@rejmank1"/>
+<meta name="twitter:title" content={frontmatter.title}/>
+
+<meta name="twitter:image" content={`http://rejmank.com/twitter-cards/${post.slug}`}/>
+      </Head>
       <SEO
         title={frontmatter.title}
         description={frontmatter.description || post.excerpt}
