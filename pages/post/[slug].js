@@ -33,7 +33,7 @@ export default function Post({ post, frontmatter, nextPost, slug, previousPost }
       <meta name="twitter:creator" content="@rejmank1"/>
 <meta name="twitter:title" content={frontmatter.title}/>
 
-<meta name="twitter:image" content={`/twitter-cards/${slug}.png`}/>
+<meta name="twitter:image" content={`https://rejmank.com/twitter-cards/${slug}.png`}/>
       </Head>
       <SEO
         title={frontmatter.title}
