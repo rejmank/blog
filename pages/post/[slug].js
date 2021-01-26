@@ -23,8 +23,8 @@ const MarkdownImage = ({ alt, src }) => (
   />
 );
 
-export default function Post({ post, frontmatter, nextPost, previousPost }) {
-  console.log(post, frontmatter )
+export default function Post({ post, frontmatter, nextPost, slug, previousPost }) {
+  console.log(slug)
   return (
     <Layout>
       <Head>
@@ -33,7 +33,7 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
       <meta name="twitter:creator" content="@rejmank1"/>
 <meta name="twitter:title" content={frontmatter.title}/>
 
-<meta name="twitter:image" content={`/twitter-cards/${post.slug}.png`}/>
+<meta name="twitter:image" content={`/twitter-cards/${slug}.png`}/>
       </Head>
       <SEO
         title={frontmatter.title}
@@ -91,6 +91,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
   const postData = getPostBySlug(slug);
+  postData.slug = slug;
 
   if (!postData.previousPost) {
     postData.previousPost = null;
