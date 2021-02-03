@@ -1,7 +1,7 @@
 ---
-title: 2020 a year in review
-description: How was 2020 for me? And what I would like to do in 2021?
-date: 2021-01-01T14:00:00.000Z
+title: The value of feedback
+description: Feedback is one of the most valuable learning tools.
+date: 2021-02-03T14:00:00.000Z
 ---
 
 # The value of feedback
