@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of software architecture - review
 description: Review of book Fundamentals of Software Architecture by Mark Richards and Neal Ford
-date: 2021-07-27T11:00:00.000Z
+date: 2021-27-01T11:00:00.000Z
 ---
 
 # Fundamentals of software architecture - review
