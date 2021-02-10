@@ -8,7 +8,17 @@ export default class MyDocument extends Document {
 
     return (
       <Html lang={siteMetadata.language}>
-        <Head />
+        <Head>
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `  window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', '${process.env.GA}');`
+            }}
+          />
+          </Head>
         <body>
           <Main />
           <NextScript />
