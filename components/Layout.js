@@ -9,7 +9,7 @@ export default function Layout({ children }) {
   const header = isRoot ? (
     <h1>
       <Link href="/">
-        <a className="font-black leading-none text-black no-underline text-7xl font-display">
+        <a className="font-black leading-none text-black no-underline text-4xl  md:text-5xl font-display">
           Rejmank's brain dump
         </a>
       </Link>
@@ -17,7 +17,7 @@ export default function Layout({ children }) {
   ) : (
     <h1 className="mb-2">
       <Link href="/">
-        <a className="text-2xl font-black text-black no-underline font-display">
+        <a className="text-4xl font-black text-black no-underline font-display">
         Rejmank's brain dump
         </a>
       </Link>
@@ -29,7 +29,7 @@ export default function Layout({ children }) {
     <div className="max-w-screen-sm px-4 py-12 mx-auto antialiased font-body">
       <header className="text-center flex content-center">
     {isRoot ? <Image
-        className="object-scale-down flex-shrink-0 mb-0 mr-3 w-40 h-46"
+        className="object-scale-down mb-0 mr-3 w-40 h-46"
         src={require("../content/assets/profile.png")}
         webpSrc={require("../content/assets/profile.png?webp")}
         previewSrc={require("../content/assets/profile.png?lqip")}
