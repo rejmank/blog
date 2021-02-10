@@ -9,6 +9,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang={siteMetadata.language}>
         <Head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ESETTGQZ64"></script>
         <script
             dangerouslySetInnerHTML={{
               __html: `  window.dataLayer = window.dataLayer || [];
