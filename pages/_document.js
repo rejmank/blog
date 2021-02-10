@@ -15,7 +15,7 @@ export default class MyDocument extends Document {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
             
-              gtag('config', '${process.env.GA}');`
+              gtag('config', '[${process.env.GA}]');`
             }}
           />
           </Head>
