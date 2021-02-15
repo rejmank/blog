@@ -16,7 +16,7 @@ export default function Bio({ className }) {
         </a>
         </div>
       <div>
-        If you dont want to miss any new article, <a href={'rejmank.substack.com'}>
+        If you dont want to miss any new article, <a href={'https://rejmank.substack.com'}>
           subscribe at my substack
         </a>
         </div>
