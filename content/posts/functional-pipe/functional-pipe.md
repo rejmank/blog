@@ -56,8 +56,8 @@ const format3 = pipe(splitData, formatItems, filterItems);
 
 If you examine the first function it seems ok, this is an example of nice composition, but it has one problem, you need to read it from right to left. We are not used to reading out programs right to left so it breaks the reading flow.
 The second version does not force you to switch the reading order but it is lengthy and the reading order is zig-zag so not ideal either.
-At first sight, the pipe does not help that much but with the time you will simply read the function from the top to bottom and immediately get the idea about what the function does. Reading flow in this case is the same as with other code and the function is nicely compact.
-TIP: There is often question about how to do logging inside pipe. Although we should strive to have our pipes pure during the development the console.log is one of the most helpful things. So how to do it? Just use R.tap, it allows you to log anywhere in your pipe. The other option is to create a log function, where you can specify other parameters like what to print before data.
+At first sight, the pipe does not help that much but with time you will simply read the function from the top to bottom and immediately get an idea about what the function does. Reading flow, in this case, is the same as with other code and the function is nicely compact.
+TIP: There is often a question about how to do logging inside pipe. Although we should strive to have our pipes pure during the development the console.log is one of the most helpful things. So how to do it? Just use R.tap, it allows you to log anywhere in your pipe. The other option is to create a log function, where you can specify other parameters like what to print before data.
 
 ```javascript
 import {pipe, curry} from 'ramda'
@@ -85,7 +85,7 @@ Other than looking good and increasing readability, the pipe has other benefits 
 
 ## Pipe pushes you to write better functions
 
-Another benefit of piping is that it pushes you to write better functions. You will find out that you functions suddenly have fewer inputs, they are pure and when you start to write a bigger function, you start to think about how to split it so it would compose nicely.
+Another benefit of piping is that it pushes you to write better functions. You will find out that your functions suddenly have fewer inputs, they are pure and when you start to write a bigger function, you start to think about how to split it so it would compose nicely.
 
 ## Conclusion
 
