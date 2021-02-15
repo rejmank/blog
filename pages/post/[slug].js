@@ -51,7 +51,7 @@ export default function Post({ post, frontmatter, nextPost, slug, previousPost }
         />
         <hr className="mt-4" />
         <footer>
-          <Bio className="mt-8 mb-16" />
+        <iframe src="https://rejmank.substack.com/embed" width="480" height="320"  frameborder="0" scrolling="no"></iframe>
         </footer>
       </article>
       <nav className="flex flex-wrap justify-between mb-10">

@@ -36,7 +36,10 @@ export default function Layout({ children }) {
         alt="Profile"
       />: null}
         {header}</header>
-      <main>{children}</main>
+      <main>
+        {children}
+      
+      </main>
       <footer className="text-lg font-light">
         © {new Date().getFullYear()}, Built with{" "}
         <a href="https://nextjs.org/">Next.js</a>
