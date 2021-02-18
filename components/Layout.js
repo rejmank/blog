@@ -43,6 +43,7 @@ export default function Layout({ children }) {
       <footer className="text-lg font-light">
         © {new Date().getFullYear()}, Built with{" "}
         <a href="https://nextjs.org/">Next.js</a>
+<br/>
          Visual by <a href="https://vratislavvanecek.wixsite.com/1cha"> Vratislav Vanecek </a>
       </footer>
     </div>
