@@ -44,6 +44,7 @@ export default function Layout({ children }) {
         © {new Date().getFullYear()}, Built with{" "}
         <a href="https://nextjs.org/">Next.js</a>
         &#128293;
+        Graphics by <a href="https://vratislavvanecek.wixsite.com/1cha"> Vratislav Vanecek </a>
       </footer>
     </div>
   );
