@@ -1,11 +1,11 @@
 ---
-title: The inconspicuousness of the pipe
+title: The benefits of pipe
 description: Pipe is a magica door to the world of functional programming, why?
 canonical_url: www.rejmank.com/functional-pipe
 date: 2021-02-15T20:00:00.000Z
 ---
 
-# The inconspicuousness of the pipe
+# The benefits of pipe?
 
 I would describe pipe as a magic door into functional programming. At the first sight, I didn't get the pipe. It seemed so obsolete, but since I started to write them all other functional concepts suddenly started to clicking together. So how to start opening the doors into the ~~Narnia~~ functional programming world?
 
@@ -90,3 +90,9 @@ Another benefit of piping is that it pushes you to write better functions. You w
 ## Conclusion
 
 In the beginning, pipe seems like just syntactic sugar with no value-added. But the readability benefit and the way it pushes you to write your code start to be apparent as soon as you write a few of them. Try it out, once you get used to it you will never look back.
+
+This is second article in functional javascript series:
+
+- [The beauty of pure functions](https://rejmank.com/post/pure-functions)
+- [**_The benefits of pipe_**](https://rejmank.com/post/functional-pipe)
+- [The usefulness of currying](https://rejmank.com/post/uselfuness-of-currying)

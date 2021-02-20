@@ -1,5 +1,5 @@
 ---
-title: Pure functions
+title: The beauty of pure functions
 description: Is pure functions the most beautifull concept in programming?
 date: 2020-12-01T11:00:00.000Z
 ---
@@ -61,3 +61,9 @@ There are simply fewer moving parts. That means that fewer things can be broken.
 ## Conclusion
 
 If there is one concept from functional programming you should know it is pure functions. As soon as you write a few of them you will encounter other benefits as easier composability etc. I hope that this article encouraged you to write more pure functions, the world needs it.
+
+This is first article in functional javascript series:
+
+- [**_The beauty of pure functions_**](https://rejmank.com/post/pure-functions)
+- [The benefits of pipe](https://rejmank.com/post/functional-pipe)
+- [The usefulness of currying](https://rejmank.com/post/uselfuness-of-currying)
