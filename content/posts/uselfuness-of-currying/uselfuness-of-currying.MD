@@ -1,6 +1,6 @@
 ---
 title: The usefulness of currying
-description: What to do if your funtions do not fit together in pipe? How to make composition easier? Read the article and you get the answer.
+description: What to do if your functions do not fit together in pipe? How to make composition easier? Read the article and you get the answer.
 canonical_url: www.rejmank.com/uselfuness-of-currying
 date: 2021-02-20T20:00:00.000Z
 ---
