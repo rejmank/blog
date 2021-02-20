@@ -1,6 +1,6 @@
 ---
 title: The usefulness of currying
-description: Pipe is a magica door to the world of functional programming, why?
+description: What to do if your funtions do not fit together in pipe? How to make composition easier? Read the article and you get the answer.
 canonical_url: www.rejmank.com/uselfuness-of-currying
 date: 2021-02-20T20:00:00.000Z
 ---
