@@ -66,4 +66,4 @@ This is first article in functional javascript series:
 
 - [**_The beauty of pure functions_**](https://rejmank.com/post/pure-functions)
 - [The benefits of pipe](https://rejmank.com/post/functional-pipe)
-- [The usefulness of currying](https://rejmank.com/post/uselfuness-of-currying)
+- [The usefulness of currying](https://rejmank.com/post/usefulness-of-currying)
