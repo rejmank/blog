@@ -4,7 +4,7 @@ description: How to write good apps for kubernetes?
 date: 2021-09-20T19:00:00.000Z
 ---
 # Writing apps for Kubernetes
-*This is an article based on my talk I did at a small internal conference on 17.09.2021. Do not expect a full-fledged article more of a comment for the slides*
+*This is an article based on my talk I did at a small internal conference on 17.09.2021. Do not expect a full-fledged article more of a comment for the slides*   
 When I joined my current team in CN there was a decision to start running part of our solution on a Kubernetes. As I get more involved with DevOps I started to see some mistakes we were doing writing our apps. 
 
 ## 12-factor apps
