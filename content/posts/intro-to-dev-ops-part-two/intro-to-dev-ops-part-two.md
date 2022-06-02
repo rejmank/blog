@@ -1,5 +1,5 @@
 ---
-title: Intro to DevOps part one
+title: Intro to DevOps part two
 description: In the last part, we talked about what DevOps is, what benefits it brings us, and how to know if we are doing good in terms of "DevOpsNess". Now we will look into what tools and practices can help us to achieve as much as possible.
 date: 2022-06-02T15:00:00.000Z
 ---
