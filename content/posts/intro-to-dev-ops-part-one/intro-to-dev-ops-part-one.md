@@ -14,7 +14,7 @@ It all started when [Patrick Debois](https://twitter.com/patrickdebois?lang=cs) 
 
 # What is DevOps
 
-What is DevOps? This question does not have an easy answer. Some will say that it is about developers running their own code, for some companies it is a move to the cloud, and for some, it is about using Kubernetes (you cannot run Kubernetes without DevOps, right?). But in reality, DevOps does not have much to do with the tools we use. DevOps scope ranges from continuous integration and delivery through testing automation all the way to the design of teams. The best definition of DevOps I found is
+What is DevOps? This question does not have an easy answer. Some will say that it is about developers running their own code, for some companies it is a move to the cloud, and for some, it is about using Kubernetes (you cannot run Kubernetes without DevOps, right?). But in reality, DevOps does not have much to do with the tools we use. DevOps scope ranges from continuous integration and delivery through testing automation all the way to the design of teams. Here is my favorite definition of DevOps:
 
 > The DevOps philosophy builds upon the Agile Principles. You can look at it as a combination of cultural philosophies, practices, and tools that increases a company’s ability to deliver applications and services faster... (https://www.bunnyshell.com/blog/how-netflix-does-devops)
 
@@ -26,7 +26,7 @@ It is all about speed. What DevOps brings us in the first place is **increase in
 
 ## How do we do in terms of DevOps
 
-Old managers telling says that what we do not measure we do not control. So how to tell if your project has good DevOps? There are 4 basic ways in which DevOps can be measured
+Old managers telling says that what we do not measure we do not control. So how to tell if your project has good DevOps? There are 4 basic metric called DORA that can help us to measure our "devOpsiness". Those are:
 
 - Lead time - How long it takes from commit to production,
 - Deployment frequency - how often do we deploy to production,
