@@ -26,7 +26,7 @@ It is all about speed. What DevOps brings us in the first place is **increase in
 
 ## How do we do in terms of DevOps
 
-Old managers telling says that what we do not measure we do not control. So how to tell if your project has good DevOps? There are 4 basic metric called DORA that can help us to measure our "devOpsiness". Those are:
+Old managers telling says that what we do not measure we do not control. So how to tell if your project has good DevOps? There are 4 basic metrics called DORA that can help us to measure our "devOpsiness". Those are:
 
 - Lead time - How long it takes from commit to production,
 - Deployment frequency - how often do we deploy to production,
