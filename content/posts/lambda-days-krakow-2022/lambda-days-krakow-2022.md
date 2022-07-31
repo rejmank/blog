@@ -5,7 +5,7 @@ date: 2022-07-31T14:00:00.000Z
 ---
 # Lambda days Krakow 2022
 
-Being a nodeJS developer at the functional programming conference is not easy. First of all, you are constantly being mocked for not programming in the real language (looking at you Roman!) and you often do not know if the speaker is cursing or describing some esoterical Haskell concept. But none of the difficulties should scare you from attending. Seven hours on the train means plenty of time for beers and reading. Our train even had a working climatization... but working maybe too well so some of us had to shake off the **JINOVATKA** before leaving the train. Nevertheless, We overcome all the difficulties, arrived in Krakow, and enjoyed the event.
+Being a nodeJS developer at the functional programming conference is not easy. First of all, you are constantly being mocked for not programming in the real language (looking at you Roman!) and you often do not know if the speaker is cursing or describing some esoterical Haskell concept. But none of the difficulties should scare you from attending. Seven hours on the train means plenty of time for beers and reading. Our train even had a working air-conditioner... but working maybe too well so some of us had to shake off the hoarfrost before leaving the train. Nevertheless, We overcome all the difficulties, arrived in Krakow, and enjoyed the event.
 
 ## Day 1
 
