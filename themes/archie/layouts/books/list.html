@@ -11,8 +11,7 @@
 {{ end }}
 
 <ul class="posts">
-  {{- range .Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default
-  (slice "page")) .Type)) -}}
+  {{- range .Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
   <li class="bookItem">
     <a href="{{.RelPermalink}}"> <h1>{{.Title}}</h1></a>
     <div class="rating">Rating: {{.Params.rating}}/5</div>
