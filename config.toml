@@ -1,0 +1,29 @@
+baseurl = "/"
+contentdir = "content"
+publishdir = "public"
+
+canonifyurls = true
+relativeURLS = false
+
+theme = "archie"
+title = "Rejmank's brain dump"
+languageCode = "en-us"
+summaryLength = 42
+
+copyright = "copyright info, like license, year, author name, e.t.c."
+
+[author]
+name = "Jiří Rejman"
+
+[params]
+description = "Rejmank's brain dump"
+showFooterCredits = true
+math = false
+useIcon = true
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss+xml"
+baseName = "feed"
+[markup.goldmark.renderer]
+unsafe = true
