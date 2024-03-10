@@ -218,6 +218,13 @@ time {
 /* Posts */
 article .title {
   margin-bottom: 1em;
+  font-size: 1.7em;
+  font-weight: 700;
+  font-family: 'Roboto Mono', monospace;
+}
+
+article .title::before {
+  content: none;
 }
 
 
