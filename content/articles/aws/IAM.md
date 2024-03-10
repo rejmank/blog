@@ -11,4 +11,4 @@ IAM is an AWS service used for authentication and user management. The basic uni
 - [Permission boundaries]({{< ref "./permission-boundaries" >}})
 - [Roles]({{< ref "./roles" >}})
 - [Security token service]({{<ref "./sts">}})
-- [Attribute and Role based control](<ref "./attribute-and-role-bc">)
+- [Attribute and Role based control]({{<ref "./attribute-and-role-bc">}})
