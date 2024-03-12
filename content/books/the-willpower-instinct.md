@@ -7,7 +7,7 @@ draft = false
 rating = 5
 +++
 
-If I can only read one book on the topic of willpover, procrastionation and all topics similar, this would be the one. Based on semestral course on Stanford each chapter is one lecture with set of experiments and techniques that will help you with all topics willpover. What is awesome is that the book covers not only the obvious things, but covers willpover as a complex topic with so much ways that we can fail. Awesome one of my best books of the year.
+If I could read only one book on the subject of willpover, procrastination and all similar topics, this would be it. Based on a semester course at Stanford, each chapter is a lecture with a set of experiments and techniques that will help you with all topics related to willpover. What is great is that the book not only covers the obvious things, but covers willpover as a complex topic with so many ways that we can fail. Fantastic, one of my best books of the year.
 
 <!--more-->
 

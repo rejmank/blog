@@ -7,7 +7,7 @@ draft = false
 rating = 4
 +++
 
-Tidy first? Is a short book about the small things that you can do to have a nice code. Not as beginner friendly as a clean code, but better. Other than list of possible techniques for tidying there is an attempt to describe when, if and why tyding is worth it. It was definetly interesting read.
+Tidy first? Is a short book about the little things you can do to have nice code. Not as beginner-friendly as Clean Code, but better. Apart from listing possible techniques for tidying, it tries to describe when, if and why tidying is worth it. It was definitely an interesting read.
 
 <!--more-->
 

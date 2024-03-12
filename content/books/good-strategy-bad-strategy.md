@@ -7,12 +7,12 @@ draft = false
 rating = 5
 +++
 
-This book was added on my to-read list while reading the book An Elegant Puzzle. The part about engineering strategy was praising this book wery much. Whe I picked this book up I was joining a new team at that time, one of the issues I was facing was what to focus on during first few months. This book helped me to articulate strategy that was far removed from the ususal corporate BS you hear at your all hands. The book is structured into two parts first one, covering what strategy is not and why we have so much bullshit strategy around. The second part covers the how. The key takeways for me was
-- Strategy need to adress concrete problems
-- Strategy need to adress weaknesses and strengths either ours and our competition
-- Strategy need to have an leverage
+This book was added to my reading list when I was reading An Elegant Puzzle. The part on engineering strategy was very praising. When I picked up this book, I was joining a new team and one of the problems I faced was what to focus on in the first few months. This book helped me articulate a strategy that was far removed from the usual corporate BS you hear all the time. The book is divided into two parts, the first of which covers what strategy is not and why we have so much bullshit strategy around. The second part covers the how. The key takeaways for me were
+- Strategy must address concrete problems
+- Strategy needs to address weaknesses and strengths, both ours and our competitors'.
+- Strategy must have leverage
 
-Do not read if you do not want the get mad every time someone presents you some BS masked as a strategy
+Do not read unless you want to get angry every time someone presents you with some BS disguised as strategy.
 
 
 <!--more-->

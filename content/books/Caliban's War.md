@@ -7,7 +7,7 @@ draft = false
 rating = 4
 +++
 
-After almost year from the first book in audio form, the second one in the expanse series finally arived and Iam glad that I waited for the audio version. The production is simply epic. The autor continues in his schtick of writing from perspectives of several characters that in the end come together, in this case on one spaceship. If the first book was a detective story, the second one is a thriller with a political games sprinkled on top. The book starts with an incident that tips the brittle peace into a war and the lives of the four heros inside out. And yes, the protomolecule is in the center of everything as usual. I enjoyed all four storylines but my personal favourite was a Avasarala, and old politic that knows her game and how to play it. I simply have a soft spot for the Machiavelian characters. Great read, nothing that would blow my brain out but worth it.
+Almost a year after the first book was released on audio, the second in the Expanse series has finally arrived and I am glad I waited for it. The production is simply epic. The author continues his style of writing from the perspectives of several characters who come together at the end, in this case on a spaceship. If the first book was a detective story, the second is a thriller with a political twist. The book begins with an incident that turns the fragile peace into war and the lives of the four heroes upside down. And yes, the protomolecule is at the centre of it all, as usual. I enjoyed all four storylines, but my personal favourite was an Avasarala and an old politician who knows her game and how to play it. I just have a soft spot for the Machiavelian characters. Great read, nothing to blow my mind, but well worth it.
 
 <!-- more -->
 

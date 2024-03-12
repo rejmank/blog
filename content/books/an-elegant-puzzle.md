@@ -8,11 +8,11 @@ rating = 5
 +++
 
 This book is a nice handbook on how to manage well... for everyone. The book is
-written for managers in larger companies or start-ups, but the
-lessons and tools are easily applicable to anyone. And i really mean applicable.
-The biggest upside of the book is that it is highly practical. A lot of books on management topics tend to be more higher level, will larson is giving you specific advice.This style shines when author gives you a framework to work with.What stuck with me was his framework for project management and solving common problems with teams.
-I also admire his non bullshit approach to strategies and visions. In his books these documents sounded as a something you really want to have instead of documents full of corporate BS. There is a lot of resources that author recomends so if you are solving specific problem it is great place to start and then dig deeper to the recomended literature.
-I think that this was the best spend 10 dolars in a long time
+written for managers in larger companies or start-ups, but the lessons and
+lessons and tools are easily applicable to anyone. And I do mean applicable.
+The biggest advantage of the book is that it is very practical. A lot of books on management topics tend to be higher level, Will Larson gives you specific advice.This style shines when the author gives you a framework to work with.What stuck with me was his framework for project management and solving common problems with teams.
+I also admire his no-nonsense approach to strategy and vision. In his books, these documents sounded like something you really wanted to have, rather than documents full of corporate BS. There are a lot of resources that the author recommends so if you are solving a specific problem it is a great place to start and then dig deeper into the recommended literature.
+I think this was the best 10 dollars I have spent in a long time.
 
 <!--more-->
 

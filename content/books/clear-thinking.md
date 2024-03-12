@@ -7,7 +7,7 @@ draft = false
 rating = 5
 +++
 
-Clear thinking is one of the books that is attacking the topic from the different angle than you would expect. instead of deep dive into decision making and tools for making clever decisions, the first part of the book is covering how to not get into position where you would need to make a bad decision. The second half is then focused on how to make decision itself. Nice short book full of insight.
+Clear Thinking is one of those books that comes at the subject from a different angle than you might expect: instead of a deep dive into decision making and tools for making smart decisions, the first part of the book is about how to avoid getting into a position where you have to make a bad decision. The second half then focuses on how to make the decision itself. Nice short book full of insight.
 
 <!--more-->
 

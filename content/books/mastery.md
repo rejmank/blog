@@ -7,7 +7,7 @@ draft = false
 rating = 2
 +++
 
-I started to read the more famous 48 laws of pover before and did not finish it. This should warn me before starting another book by the same author. It have exactly the same problems and style as other books. Too long, too repeating with few interesting points. In do not have problem with most of the points, but the choosen examples was often repeated between chapters or there were two where one would be good enough. I would love to read more edited version of this book.
+I started reading the more famous 48 laws of power and have not finished it. This should warn me before starting another book by the same author. It has exactly the same problems and style as the other books. Too long, too repetitive with few interesting points. I have no problem with most of the points, but the examples chosen were often repeated between chapters or there were two where one would be good enough. I would like to read a more edited version of this book.
 
 <!--more-->
 

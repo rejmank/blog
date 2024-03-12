@@ -7,7 +7,7 @@ draft = false
 rating = 5
 +++
 
-Well curated and really well written set of stories about discipline. Do not expect any advice or how tos but if you are looking for inspiration this is the book to read. I personally picked up a few stories/quotes I find repeating to myself quiet often althougth Iam not really a quotes person.
+Well curated and really well written set of stories about discipline. Do not expect advice or how to's but if you are looking for inspiration this is the book to read. I personally picked up a few stories/quotes that I find myself repeating quite often, although I am not really a quote person.
 
 <!--more-->
 
