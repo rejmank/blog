@@ -5,7 +5,7 @@ tags = ["AWS", "IAM"]
 draft = false
 +++ 
 ## Roles 
-Role is a special kind of a policy. It states what principal with such role can do and also **who can assume this role**, this is called **trust policy**. It is used for giving short term access. Using roles, users from different AWS accounts can be given access to resources.
+A role is a special kind of policy. It states what the principal can do with such a role and also **who can take that role**, this is called **trust policy**. It is used to grant short-term access. Roles can be used to give users from different AWS accounts access to resources.
 
 - [IAM]({{< ref "./iam" >}})
 - [Attribute and Role based control]({{< ref "./attribute-and-role-bc" >}})

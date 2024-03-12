@@ -6,6 +6,6 @@ draft = false
 +++ 
 
 # STS - security token service
-STS is a web service that provides short tem credentials for providing access to AWS services.
+STS is a web service that provides short tokens for accessing AWS services.
 
 - [IAM]({{< ref "./iam" >}})

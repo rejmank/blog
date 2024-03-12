@@ -5,7 +5,7 @@ author = ["Rejman Jiří"]
 tags = ["AWS", "IAM"]
 draft = false
 +++ 
-
-We have two types of policies, resource based policies and identity based policy. The difference is that for identity based policy we are saying who can do what. Eg. Users in a group developers can create new AWS lambdas. Resource based policies set up what can resource, such as EC2 do.  
+# Policy
+We have two types of policy, resource-based policy and identity-based policy. The difference is that for identity-based policies we say who can do what. For example, users in a developer group can create new AWS lambdas. Resource based policies say what resources like EC2 can do.   
 
 - [IAM]({{< ref "./iam" >}})
