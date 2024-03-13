@@ -9,4 +9,4 @@ Role states what the principal can do with such a role and also **who can take t
 
 - [IAM]({{< ref "./iam" >}})
 - [Attribute and Role based control]({{< ref "./attribute-and-role-bc" >}})
-- [Role vs policy]({{ref "./role_or_policy"}})
+- [Role vs policy]({{<ref "./role_or_policy">}})

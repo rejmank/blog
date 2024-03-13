@@ -15,4 +15,4 @@ The question is, why not attach policies directly to users or resources?
 
 - [IAM]({{< ref "./iam" >}})
 - [Role]({{< ref "./roles" >}})
-- [Policies]({{ref "./policy"}})
+- [Policies]({{<ref "./policy">}})
