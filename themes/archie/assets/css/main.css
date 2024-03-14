@@ -240,6 +240,7 @@ time {
 
 /* Posts */
 article .title {
+  line-height: 1em;
   margin-bottom: 1em;
   font-size: 1.7em;
   font-weight: 700;
