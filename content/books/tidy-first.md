@@ -5,17 +5,16 @@ tags = ["programming", "code", "tech"]
 categories = ["books"]
 draft = false
 rating = 4
+image = "https://m.media-amazon.com/images/I/812OKv4P8qL._SL1500_.jpg"
 +++
 
 Tidy first? Is a short book about the little things you can do to have nice code. Not as beginner-friendly as Clean Code, but better. Apart from listing possible techniques for tidying, it tries to describe when, if and why tidying is worth it. It was definitely an interesting read.
 
 <!--more-->
 
-
 > When we observe that a certain class of features is hard to add, we design until the pressure is relieved.
 
-
-> ```if (not condition) return
+>```if (not condition) return
 if (other condition) return
 ...some code... ```
 This is easier to read. It says, “Before we get into the details of the code, there are some preconditions we need to bear in mind.”

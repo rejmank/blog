@@ -5,6 +5,7 @@ tags = ["leadership", "management", "tech"]
 categories = ["books"]
 draft = false
 rating = 5
+image="https://m.media-amazon.com/images/I/71gCONZS6wL._SL1480_.jpg"
 +++
 
 This book is a nice handbook on how to manage well... for everyone. The book is

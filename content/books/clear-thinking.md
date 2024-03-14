@@ -5,6 +5,7 @@ tags = ["Productivity", "management", "strategy"]
 categories = ["books"]
 draft = false
 rating = 5
+image = "https://m.media-amazon.com/images/I/812POf6nSyL._SL1500_.jpg"
 +++
 
 Clear Thinking is one of those books that comes at the subject from a different angle than you might expect: instead of a deep dive into decision making and tools for making smart decisions, the first part of the book is about how to avoid getting into a position where you have to make a bad decision. The second half then focuses on how to make the decision itself. Nice short book full of insight.
