@@ -7,6 +7,7 @@ draft = false
 rating = 4
 image = "https://m.media-amazon.com/images/I/812OKv4P8qL._SL1500_.jpg"
 order = 9
+amazon = "https://amzn.to/491wOzl"
 +++
 
 Tidy first? Is a short book about the little things you can do to have nice code. Not as beginner-friendly as Clean Code, but better. Apart from listing possible techniques for tidying, it tries to describe when, if and why tidying is worth it. It was definitely an interesting read.

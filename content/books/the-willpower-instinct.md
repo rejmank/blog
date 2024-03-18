@@ -7,6 +7,7 @@ draft = false
 rating = 5
 image = "https://m.media-amazon.com/images/I/7146LMnjKaL._SL1500_.jpg"
 order = 7
+amazon = "https://amzn.to/4afwDkQ"
 +++
 
 If I could read only one book on the subject of willpover, procrastination and all similar topics, this would be it. Based on a semester course at Stanford, each chapter is a lecture with a set of experiments and techniques that will help you with all topics related to willpover. What is great is that the book not only covers the obvious things, but covers willpover as a complex topic with so many ways that we can fail. Fantastic, one of my best books of the year.

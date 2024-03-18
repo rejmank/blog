@@ -7,6 +7,7 @@ draft = false
 rating = 5
 image = "https://m.media-amazon.com/images/I/81WOVAOHbHL._SL1500_.jpg"
 order = 1
+amazon = "https://amzn.to/49ZJ1Wo"
 +++
 
 Well curated and really well written set of stories about discipline. Do not expect advice or how to's but if you are looking for inspiration this is the book to read. I personally picked up a few stories/quotes that I find myself repeating quite often, although I am not really a quote person.
