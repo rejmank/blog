@@ -6,6 +6,7 @@ categories = ["books"]
 draft = false
 rating = 3
 image = "https://m.media-amazon.com/images/I/91wYBAJUmzL._SL1500_.jpg"
+order = 12
 +++
 
 Trillion Dollar Coach left me with three impressions. First, business is about people, get the people right and the rest will be much easier. Second, care about people, let them know when they do something good and also when they screw up, be honest. Finally, build communities, let people be together in informal settings. Fortunately, I used to have a manager who I saw doing these things and the results he had.

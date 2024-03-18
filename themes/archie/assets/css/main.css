@@ -422,3 +422,19 @@ table td {
   max-height: 15em;
   margin: 15px;
 }
+
+/* books buttons */
+button {
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid 2px var(--maincolor);
+  font-weight: 700;
+  padding-top: 2em;
+}
+
+button:hover {
+
+  cursor: pointer;
+}
