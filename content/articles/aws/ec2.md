@@ -13,3 +13,4 @@ EC2 is a service that provides servers for rent. We can choose from Linux, Windo
 - [Batch]({{<ref "./batch">}})
 - [Network Interfaces]({{<ref "./network-interfaces">}})
 - [IP Types]({{<ref "./ips">}})
+- [EC2 Placement]({{< ref "./ec2-placement">}})
