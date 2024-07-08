@@ -414,6 +414,7 @@ table td {
 
 .book-review {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .nahled {
