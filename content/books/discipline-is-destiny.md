@@ -10,7 +10,7 @@ order = 1
 amazon = "https://amzn.to/49ZJ1Wo"
 +++
 
-Well curated and really well written set of stories about discipline. Do not expect advice or how to's but if you are looking for inspiration this is the book to read. I personally picked up a few stories/quotes that I find myself repeating quite often, although I am not really a quote person.
+Well curated and masterfully crafted set of stories about discipline. While it doesn't offer conventional advice or step-by-step guides, its real strength lies in its ability to inspire. I personally picked up a few stories/quotes that I find myself repeating quite often, although I am not really a quote person.
 
 <!--more-->
 
