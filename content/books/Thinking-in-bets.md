@@ -12,6 +12,10 @@ amazon = "https://amzn.to/3VkpKJ4"
 
 Thinking in bets was rather underwhelming reading. Maybe because I red the great  clear thinking before. The concept of the book is simple, put you money where you mouth is and this will force you to think less binary and explore the possible decision more in depth. I really enjoyed the first part of the book where Annie covers potential pitfalls and how not to fall into them, but in the second book she goes really in depth into building a group of like minded people. This might be great if you are trying to get better in poker but for most usecases I do not see that much value in group like that.
 
+_Thinking in Bets_ was a rather underwhelming read for me, possibly because I had previously read _The Great Mental Models_ by Shane Parrish, which set a high bar for clear thinking. The central concept of Annie Duke's book is straightforward: making bets forces you to think less binary and explore decisions more thoroughly.
+
+I really enjoyed the first part of the book, where Annie outlines potential pitfalls in decision-making and offers advice on how to avoid them. However, in the second part, she delves deeply into the idea of building a group of like-minded individuals. While this might be beneficial for those looking to improve their poker game, I found it less applicable to most everyday situations.
+
 <!--more-->
 
 # Thinking in Bets by Annie Duke
