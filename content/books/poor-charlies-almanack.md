@@ -1,12 +1,12 @@
 +++
-title = "# Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger by Charles T. Munger"
+title = "Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger by Charles T. Munger"
 author = ["Rejman Jiří"]
 tags = ["Productivity", "management", "investment"]
 categories = ["category1"]
 draft = false
 rating = 2
 image = "https://m.media-amazon.com/images/I/81HHPBQH9dL._SL1500_.jpg"
-order = 240610
+order = 100624
 amazon = "https://amzn.to/3Xm2ZHh"
 +++
 
