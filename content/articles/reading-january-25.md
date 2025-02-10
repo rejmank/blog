@@ -11,7 +11,7 @@ I decided to start compiling the most interesting things I have red or listened 
 I started to going through Ted Goya ["humanities in 52 weeks"](https://www.honest-broker.com/p/can-you-really-learn-the-humanities), I will not (most probably) follow it week by week but I will take the readings as a suggestions. 
 ### Books
 - [Plato Euthyphro](https://classics.mit.edu/Plato/euthyfro.html) - Are things good because they are good? Or are they good because we thing about them this way?
-- [Ask Aristotle](https://altamira.studio/ask)  [review]({{<ref "./books/ask-aristotle">}})
+- [Ask Aristotle](https://altamira.studio/ask)  [review]({{<ref "../books/ask-aristotle">}})
 	- I really like this short book by Altamira studio. What struck me most was how the philosophy aligned to mine... I will continue to explore the Aristotelian thinking and go to the source itself. 
 ### Articles
 - [Rao reading algorithm](https://raohacker.com/rao-reading-algorithm/) 
