@@ -10,7 +10,7 @@ order = 05022025
 amazon = "https://altamira.studio/ask"
 +++
 
-Introduction to Aristotles Philosophy as a Platon dialogue? Nice, I liked it primary as a different look than the now really popular stoic philosophy. Well written and nice examples on the life of one average dude. Liked.
+Introduction to Aristotles Philosophy as a Platon dialogue? Nice, I liked it primary as a different  approach than the now really popular stoic philosophy. Well written and nice examples on the life of one average dude. Liked.
 
 <!--more-->
 
@@ -19,15 +19,12 @@ Introduction to Aristotles Philosophy as a Platon dialogue? Nice, I liked it pri
 
 > “The Peripatetics were followers of Aristotle. Aristotle knew that eliminating emotions is impossible for biological beings like us. His philosophy aims at training or disciplining emotions—channeling their energy, harnessing them so we can live better lives.
 
-> can’t manage hardship well. “So the ability to manage hardship is necessary for acquiring skills. If you can’t manage hardship—if you don’t have that virtue—your ability to acquire skills will be compromised. But the ability to manage hardship is even more
+> So the ability to manage hardship is necessary for acquiring skills. If you can’t manage hardship—if you don’t have that virtue—your ability to acquire skills will be compromised. But the ability to manage hardship is even more important to bounce back from mistakes or bad luck. On the flip side, it’s hard to imagine any aspect of your life that won’t benefit if you can manage hardship well.
 
 
-> bounce back from mistakes or bad luck. On the flip side, it’s hard to imagine any aspect of your life that won’t benefit if you can manage hardship well.
+> live well is to acquire and use the virtues, just as to play a sport well is to acquire and use the right kinds of skills
 
 
-> live well is to acquire and use the virtues, just as to play a sport well is to acquire and use the right kinds of skills.” I was struggling
-
-
-> Finding meaning in life is an ongoing process of updating and revising the story we tell ourselves about ourselves and the universe we inhabit.”
+> Finding meaning in life is an ongoing process of updating and revising the story we tell ourselves about ourselves and the universe we inhabit.
 
 
