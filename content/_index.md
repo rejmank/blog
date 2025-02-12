@@ -4,6 +4,7 @@ author = ["Rejman Jiří"]
 +++
 
 This is web is a compilation of things I like and write about You can find here:
-
 - [Recomendation of books for mentoring](/articles/reading)
-- [January reading](/articles/reading-january-25)
+# Monthly links 
+I try to compile the most interesting things I was reading, listening and watching each month. 
+- [January 2025](/articles/reading-january-25)
