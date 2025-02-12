@@ -16,7 +16,8 @@ I started to going through Ted Goya ["humanities in 52 weeks"](https://www.hones
  [Rao reading algorithm](https://raohacker.com/rao-reading-algorithm/)  Maybe a bit over my head but interesting peek into the mind of someone who really take his reading seriously. I would like to be also so systematic...
   [Dan Luu - **Some reasons to work on productivity and velocity**](https://danluu.com/productivity-velocity/ ) I struggled with productivity last two months. This is one of the best articles for programmers, more about why to be productive but a few tipsa also. I tried to record myself programming, started to use few shortcuts and hope this will compound. 
  [Nabeel S. Qureshi - principles](https://nabeelqu.substack.com/p/principles)  I like list of principles and I am working on my own. Few great gems in here:
->Do things fast. Things don’t actually take much time (as measured by a stopwatch); resistance/procrastination does. “Slow is fake”. If no urgency exists, impose some.```
+ 
+>Do things fast. Things don’t actually take much time (as measured by a stopwatch); resistance/procrastination does. “Slow is fake”. If no urgency exists, impose some.
 
  > Pay attention to your production/consumption balance. If you’re only consuming and not producing, fix that.
 
