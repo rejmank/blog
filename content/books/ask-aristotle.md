@@ -6,7 +6,7 @@ categories = ["books"]
 draft = false
 rating = 4
 image = "https://m.media-amazon.com/images/I/81KRkXJh7JL._SL1500_.jpg"
-order = 05022025
+order = 5022025
 amazon = "https://altamira.studio/ask"
 +++
 
@@ -26,5 +26,3 @@ Introduction to Aristotles Philosophy as a Platon dialogue? Nice, I liked it pri
 
 
 > Finding meaning in life is an ongoing process of updating and revising the story we tell ourselves about ourselves and the universe we inhabit.
-
-

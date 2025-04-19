@@ -1,0 +1,26 @@
+{{ define "main" }} {{ if isset .Data "Term" }}
+<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+{{ else }}
+<h1 class="page-title">Book reviews</h1>
+<div>
+    Bellow are listed books that I finished reading. That means that the rating is
+    bit inflated since I usually do not finish books that I would rate bellow
+    three stars out of five. If you like the book by the short review, you can
+    click through to see notes I take while reading.
+</div>
+{{ end }}
+<script src="{{ .Site.BaseURL }}js/main.js"></script>
+<button onclick="sortByRating('books')">Sort by rating</button>
+<button onclick="sortByNewest()">Sort by newest</button>
+<ul class="posts" id="books">
+    {{- range .Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+
+  <li class="bookItem" id="{{.Params.order}}">
+    <a href="{{.RelPermalink}}"> <h1>{{.Title}}</h1></a>
+    <div class="rating">Rating: {{.Params.rating}}/5</div>
+    <div class="book-review"><img class="nahled" src="{{.Params.image}}"><div>{{.Summary}}   <a href="{{ .RelPermalink }}">Notes</a> <a href="{{.Params.amazon}}">Link</div></div>
+
+  </li>
+  {{- end -}} {{- end -}}
+</ul>
+{{ end }}
