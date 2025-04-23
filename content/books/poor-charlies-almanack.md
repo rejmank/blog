@@ -1,14 +1,19 @@
-+++
-title = "Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger by Charles T. Munger"
-author = \["Rejman Jiří"\]
-tags = \["Productivity", "management", "investment"\]
-categories = \["category1"\]
-draft = false
-rating = 2
-image = "https://m.media-amazon.com/images/I/81HHPBQH9dL.*SL1500*.jpg"
-order = 100624
-amazon = "https://amzn.to/3Xm2ZHh"
-+++
+---
+title: 'Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger by Charles T. Munger'
+author:
+- Rejman Jiří
+tags:
+- Productivity
+- management
+- investment
+categories:
+- category1
+draft: false
+rating: 2
+image: https://m.media-amazon.com/images/I/81HHPBQH9dL._SL1500_.jpg
+order: 100624
+amazon: https://amzn.to/3Xm2ZHh
+---
 
 Iam a fan of the blog [Farnam street](https://fs.blog/), this gave me an idea to go closer to their original inspiration from Charles Munger and Warren Buffet and read on of their books, and I picked up Poor Charlies almanack. If you are an investor the book is a gem but if you are looking for more general advice look elsewhere. It is kind of weird to criticise a book about investing from an investor for being too much about investing but hey, I do not pretend that these reviews are not opinionated :) . One more thing that put me off was constant criticize of the US education system and proposing and idea of it being more general and not so specialized but It might be mentioned once and not on several occasions with a single dedicated chapter. Newerheless I also found some gems like inverting or applying mental models to problems in the book so that is why I went with the rating of two.
 

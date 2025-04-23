@@ -1,14 +1,19 @@
-+++
-title = "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke"
-author = \["Rejman Jiří"\]
-tags = \["Productivity", "management", "strategy"\]
-categories = \["category1"\]
-draft = false
-rating = 3
-image = "https://m.media-amazon.com/images/I/81mG9-knGiL.*SL1500*.jpg"
-order = 240610
-amazon = "https://amzn.to/3VkpKJ4"
-+++
+---
+title: 'Thinking in Bets: Making Smarter Decisions When You Don''t Have All the Facts by Annie Duke'
+author:
+- Rejman Jiří
+tags:
+- Productivity
+- management
+- strategy
+categories:
+- category1
+draft: false
+rating: 3
+image: https://m.media-amazon.com/images/I/81mG9-knGiL._SL1500_.jpg
+order: 240610
+amazon: https://amzn.to/3VkpKJ4
+---
 
 Thinking in bets was rather underwhelming reading. Maybe because I red the great  clear thinking before. The concept of the book is simple, put you money where you mouth is and this will force you to think less binary and explore the possible decision more in depth. I really enjoyed the first part of the book where Annie covers potential pitfalls and how not to fall into them, but in the second book she goes really in depth into building a group of like minded people. This might be great if you are trying to get better in poker but for most usecases I do not see that much value in group like that.
 

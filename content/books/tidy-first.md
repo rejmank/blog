@@ -1,14 +1,19 @@
-+++
-title = "Tidy First? by Kent Beck"
-author = \["Rejman Jiří"\]
-tags = \["programming", "code", "tech"\]
-categories = \["books"\]
-draft = false
-rating = 4
-image = "https://m.media-amazon.com/images/I/812OKv4P8qL.*SL1500*.jpg"
-order = 9
-amazon = "https://amzn.to/491wOzl"
-+++
+---
+title: Tidy First? by Kent Beck
+author:
+- Rejman Jiří
+tags:
+- programming
+- code
+- tech
+categories:
+- books
+draft: false
+rating: 4
+image: https://m.media-amazon.com/images/I/812OKv4P8qL._SL1500_.jpg
+order: 9
+amazon: https://amzn.to/491wOzl
+---
 
 Tidy first? Is a short book about the little things you can do to have nice code. Not as beginner-friendly as Clean Code, but better. Apart from listing possible techniques for tidying, it tries to describe when, if and why tidying is worth it. It was definitely an interesting read.
 
@@ -67,4 +72,4 @@ This is easier to read. It says, “Before we get into the details of the code, 
  > To prepare to write their classic text Structured Design, Ed Yourdon and Larry Constantine examined programs to find out what made them so expensive. They noticed that the expensive programs all had one property in common: changing one element required changing other elements. The cheap programs tended to require localized changes.
 
  > 
- > cost(software) ~= coupling
+ > cost(software) ~: coupling

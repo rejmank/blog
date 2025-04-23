@@ -1,14 +1,19 @@
-+++
-title = "Benjamin Franklin: An American Life by Walter Isaacson"
-author = \["Rejman Jiří"\]
-tags = \["Leadership", "history", "usa"\]
-categories = \["books"\]
-draft = false
-rating = 4
-image = "https://m.media-amazon.com/images/I/91b4Rhig49L.*SL1500*.jpg"
-order = 2406024
-amazon = "https://amzn.to/4ezmbYm"
-+++
+---
+title: 'Benjamin Franklin: An American Life by Walter Isaacson'
+author:
+- Rejman Jiří
+tags:
+- Leadership
+- history
+- usa
+categories:
+- books
+draft: false
+rating: 4
+image: https://m.media-amazon.com/images/I/91b4Rhig49L._SL1500_.jpg
+order: 2406024
+amazon: https://amzn.to/4ezmbYm
+---
 
 After reading [Leadership in turbulent times](leadership-in-turbulent-times) I wanted to explore further into U.S. history, and picking up a biography by Walter Isaacson is always a good choice. What this book does great is portraying Franklin as a human being, with all the flaws and all the greatness of the founding father, bringing him to life on the page.One aspect that really surprised me was how old Franklin was during his diplomatic mission in France.
 

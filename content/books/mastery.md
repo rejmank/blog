@@ -1,14 +1,18 @@
-+++
-title = "Mastery by Robert Greene"
-author = \["Rejman Jiří"\]
-tags = \["Productivity", "Learning"\]
-categories = \["books"\]
-draft = false
-rating = 2
-image = "https://m.media-amazon.com/images/I/71zTtMP8ijL.*SL1500*.jpg"
-order = 3
-amazon = "https://amzn.to/3IJi6SK"
-+++
+---
+title: Mastery by Robert Greene
+author:
+- Rejman Jiří
+tags:
+- Productivity
+- Learning
+categories:
+- books
+draft: false
+rating: 2
+image: https://m.media-amazon.com/images/I/71zTtMP8ijL._SL1500_.jpg
+order: 3
+amazon: https://amzn.to/3IJi6SK
+---
 
 I started reading the more famous 48 laws of power and have not finished it. This should warn me before starting another book by the same author. It has exactly the same problems and style as the other books. Too long, too repetitive with few interesting points. I have no problem with most of the points, but the examples chosen were often repeated between chapters or there were two where one would be good enough. I would like to read a more edited version of this book.
 

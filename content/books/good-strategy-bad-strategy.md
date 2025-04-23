@@ -1,14 +1,19 @@
-+++
-title = "Good Strategy Bad Strategy by Richard Rumelt"
-author = \["Rejman Jiří"\]
-tags = \["leadership", "management", "strategy"\]
-categories = \["books"\]
-draft = false
-rating = 5
-image = "https://m.media-amazon.com/images/I/814hRVdArnL.*SL1500*.jpg"
-order = 6
-amazon = "https://amzn.to/3vroc74"
-+++
+---
+title: Good Strategy Bad Strategy by Richard Rumelt
+author:
+- Rejman Jiří
+tags:
+- leadership
+- management
+- strategy
+categories:
+- books
+draft: false
+rating: 5
+image: https://m.media-amazon.com/images/I/814hRVdArnL._SL1500_.jpg
+order: 6
+amazon: https://amzn.to/3vroc74
+---
 
 This book was added to my reading list when I was reading An Elegant Puzzle. The part on engineering strategy was very praising. When I picked up this book, I was joining a new team and one of the problems I faced was what to focus on in the first few months. This book helped me articulate a strategy that was far removed from the usual corporate BS you hear all the time. The book is divided into two parts, the first of which covers what strategy is not and why we have so much bullshit strategy around. The second part covers the how. The key takeaways for me were
 

@@ -1,14 +1,19 @@
-+++
-title = "Discipline Is Destiny by Ryan Holiday"
-author = \["Rejman Jiří"\]
-tags = \["self help", "inspiration", "stoicism"\]
-categories = \["category1"\]
-draft = false
-rating = 5
-image = "https://m.media-amazon.com/images/I/81WOVAOHbHL.*SL1500*.jpg"
-order = 1
-amazon = "https://amzn.to/49ZJ1Wo"
-+++
+---
+title: Discipline Is Destiny by Ryan Holiday
+author:
+- Rejman Jiří
+tags:
+- self help
+- inspiration
+- stoicism
+categories:
+- category1
+draft: false
+rating: 5
+image: https://m.media-amazon.com/images/I/81WOVAOHbHL._SL1500_.jpg
+order: 1
+amazon: https://amzn.to/49ZJ1Wo
+---
 
 Well curated and masterfully crafted set of stories about discipline. While it doesn't offer conventional advice or step-by-step guides, its real strength lies in its ability to inspire. I personally picked up a few stories/quotes that I find myself repeating quite often, although I am not really a quote person.
 
