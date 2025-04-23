@@ -1,14 +1,14 @@
-+++
-title = "ASK ARISTOTLE by Vishal Sharma & William Jaworski"
-author = ["Rejman Jiří"]
-tags = ["Philosophy", "Learning"]
-categories = ["books"]
-draft = false
-rating = 4
-image = "https://m.media-amazon.com/images/I/81KRkXJh7JL._SL1500_.jpg"
-order = 5022025
-amazon = "https://altamira.studio/ask"
-+++
+---
+title : "ASK ARISTOTLE by Vishal Sharma & William Jaworski"
+author : ["Rejman Jiří"]
+tags : ["Philosophy", "Learning"]
+categories : ["books"]
+draft : false
+rating : 4
+image : "https://m.media-amazon.com/images/I/81KRkXJh7JL._SL1500_.jpg"
+order : 5022025
+amazon : "https://altamira.studio/ask"
+---
 
 Introduction to Aristotles Philosophy as a Platon dialogue? Nice, I liked it primary as a different  approach than the now really popular stoic philosophy. Well written and nice examples on the life of one average dude. Liked.
 

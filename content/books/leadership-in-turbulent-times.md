@@ -1,11 +1,11 @@
 +++
 title = "Leadership in Turbulent Times by Doris Kearns Goodwin"
-author = ["Rejman Jiří"]
-tags = ["Leadership", "history", "usa"]
-categories = ["books"]
+author = \["Rejman Jiří"\]
+tags = \["Leadership", "history", "usa"\]
+categories = \["books"\]
 draft = false
 rating = 4
-image = "https://m.media-amazon.com/images/I/716CHY0ty3L._SL1500_.jpg"
+image = "https://m.media-amazon.com/images/I/716CHY0ty3L.*SL1500*.jpg"
 order = 2
 amazon = "https://amzn.to/4cjamo6"
 +++
@@ -14,4 +14,5 @@ The history of the USA is a fascinating subject and the people who are elected t
 
 <!--more-->
 
-> “I want to tell you what has been done in the last few days, why it was done, and what the next steps are going to be,”
+ > 
+ > “I want to tell you what has been done in the last few days, why it was done, and what the next steps are going to be,”

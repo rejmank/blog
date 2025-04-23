@@ -1,14 +1,14 @@
-+++
-title = "An Elegant Puzzle by Will Larson"
-author = ["Rejman Jiří"]
-tags = ["leadership", "management", "tech"]
-categories = ["books"]
-draft = false
-rating = 5
-image="https://m.media-amazon.com/images/I/71gCONZS6wL._SL1480_.jpg"
-order = 5
-amazon = "https://amzn.to/3TpyTiN"
-+++
+---
+title : "An Elegant Puzzle by Will Larson"
+author : ["Rejman Jiří"]
+tags : ["leadership", "management", "tech"]
+categories : ["books"]
+draft : false
+rating : 5
+image: "https://m.media-amazon.com/images/I/71gCONZS6wL._SL1480_.jpg"
+order : 5
+amazon : "https://amzn.to/3TpyTiN"
+---
 
 This book is a nice handbook on how to manage well... for everyone. The book is
 written for managers in larger companies or start-ups, but the lessons and

@@ -1,8 +1,8 @@
 +++
 title = "Caliban's War by James S. A. Corey"
-author = ["Rejman Jiří"]
-tags = ["sci-fy", "audio"]
-categories = ["books"]
+author = \["Rejman Jiří"\]
+tags = \["sci-fy", "audio"\]
+categories = \["books"\]
 draft = false
 rating = 4
 image = "https://m.media-amazon.com/images/I/51EB7CXqGKL.jpg"
