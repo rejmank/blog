@@ -6,12 +6,12 @@
 {{ end }}
 <script src="{{ .Site.BaseURL }}js/main.js"></script>
 <ul class="posts" id="books">
-    {{- range .Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+    {{- range .Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default
+    (slice "page")) .Type)) -}}
 
     <li class="bookItem" id="{{.Params.order}}">
         <a href="{{.RelPermalink}}"> <h1>{{.Title}}</h1></a>
         <div class="book-review">
-            <img class="nahled" src="{{.Params.image}}" />
             <div>{{.Summary}}</div>
         </div>
     </li>
