@@ -18,6 +18,3 @@ I read about Scotland as part of my preparation for a trip. I wanted to get a ge
 
 <!--more-->
 
-````
-```
-````
