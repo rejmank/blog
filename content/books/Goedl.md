@@ -1,5 +1,5 @@
 ---
-title: Troy by Stephen Fry
+title: 'Journey to the Edge of Reason: The Life of Kurt Gödel by Stephen Budiansky'
 author:
 - Rejman Jiří
 tags:
@@ -10,9 +10,9 @@ categories:
 - category1
 draft: false
 rating: 4
-image: https://libris.to/media/jacket/33596061_troy.jpg
+image: https://cdnprovider.hostbrno.cz/files/cz/e/5421/na-okraji-rozumu_w350.jpeg.webp
 order: 24426
-amazon: https://www.libristo.cz/cs/kniha/troy_33596061
+amazon: https://www.hostbrno.cz/na-okraji-rozumu/
 ---
 
 So this is how you write a biography! After reading a [The man from the future](projects/blog_content/books/The-man-from-the-future.md)
