@@ -6,7 +6,7 @@ tags:
 - sci-fy
 - fantasy
 categories:
-- category1
+- books
 draft: false
 rating: 5
 image: https://m.media-amazon.com/images/I/51T--s+UTLL._SY445_SX342_ControlCacheEqualizer_.jpg
