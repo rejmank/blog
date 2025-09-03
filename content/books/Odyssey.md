@@ -18,4 +18,3 @@ You don't write reviews of classics; you analyse them. However, I don't feel cap
 Focus on how much time elapses during each chapter — it's interesting to see how 10 days can feel like 10 years.
 Expect some brutality — I was really surprised at how brutal the book is. When the men are fighting, every third sentence describes how someone was killed and which parts of their body were pierced by what.
 And don't rush it; enjoy the process, page by page.
-<!--more-->

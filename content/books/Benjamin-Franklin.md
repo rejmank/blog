@@ -15,7 +15,7 @@ order: 2406024
 amazon: https://amzn.to/4ezmbYm
 ---
 
-After reading [Leadership in turbulent times](leadership-in-turbulent-times) I wanted to explore further into U.S. history, and picking up a biography by Walter Isaacson is always a good choice. What this book does great is portraying Franklin as a human being, with all the flaws and all the greatness of the founding father, bringing him to life on the page.One aspect that really surprised me was how old Franklin was during his diplomatic mission in France.
+After reading [Leadership in turbulent times](blog_content/books/leadership-in-turbulent-times.md) I wanted to explore further into U.S. history, and picking up a biography by Walter Isaacson is always a good choice. What this book does great is portraying Franklin as a human being, with all the flaws and all the greatness of the founding father, bringing him to life on the page.One aspect that really surprised me was how old Franklin was during his diplomatic mission in France.
 
 For my rating, I would divide the book into two parts. The first part, about Franklin’s early life, was really enjoyable, maybe because it is closest to me in terms of age and problems that Frankling was dealing with.. The second part, covering the American Revolution, was also engaging. However, as someone not deeply knowing the U.S. history, I would have appreciated more context and background. Despite this, it is a great read.
 

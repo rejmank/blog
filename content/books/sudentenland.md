@@ -15,4 +15,3 @@ amazon: https://www.kosmas.cz/knihy/529666/sudetenland/
 ---
 
 I do not have much to add to this book other than you can read in the annotation. It delivered what was promised. What I really liked was portraing the characters and the feeling that the history, althought dead for me, is still shaping lives and opinions of others. Other than that nice light detective.
-<!--more-->

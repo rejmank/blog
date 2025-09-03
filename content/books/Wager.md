@@ -16,4 +16,3 @@ amazon: https://www.melvil.cz/kniha-wager
 ---
 
 I might have been a little carried away by the marketing of this one, but I expected more of a court drama with different versions of the story compared to each other. Instead, I got a straightforward Robinson Crusoe story. The court itself is just one chapter, and the whole affair was basically swept under the rug. There are only a few details that differ from each other. Overall, it's fine, but nothing spectacular.
-<!--more-->
