@@ -26,6 +26,8 @@ I decided to start compiling the most interesting things I have red or listened 
 ## 1.1.2025 - Humanities in 52 weeks
 I started to going through Ted Goya ["humanities in 52 weeks"](https://www.honest-broker.com/p/can-you-really-learn-the-humanities)
 
+## just testing
+jist testing if i can do stuff from github repo
 
  
 
