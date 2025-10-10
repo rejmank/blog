@@ -1,4 +1,3 @@
-+++ title = "Links and Stuff" author = ["Rejman Jiří"] tags = ["reading list"] categories = [""] draft = false +++
 
 I decided to start compiling the most interesting things I have red or listened to. I originally planned to compile the stuff each month, but better model is to just put it there as I finish it.
 ### 8.3.2025 - Finished Odyssey
