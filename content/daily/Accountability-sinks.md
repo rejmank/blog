@@ -1,2 +1,0 @@
-https://250bpm.substack.com/p/accountability-sinks?utm_source=hackernewsletter&utm_medium=email&utm_term=books
-Finding the right balance between rules, processes on one hand and freedom to make the decision opposing them is one of the fascinating things. I agree with the sentiment of the article that rules and processes are mostly good but man, can they backfire. I sometimes try to think about a  rule or process nad figure out what might be the cause for them and also where it might backfire. If you try it you will be surprised what consequences things might have.

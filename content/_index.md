@@ -5,7 +5,5 @@ author = ["Rejman Jiří"]
 
 This is web is a compilation of things I like and write about You can find here:
 - [Recomendation of books for mentoring](/articles/reading)
-#  [Links](/stuff)
-List of things I read, listened to, saw... Mostly articles, some music and occasionally a movie.
-# [Thougths](/daily)
-I try to write a daily note. The topics wary from productivity, to programming or totaly random thougths.
+#  [Waste Book](/waste-book)
+Just a random thougths, movies, music and art impressions and everything in between.
