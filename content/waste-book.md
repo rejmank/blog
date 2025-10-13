@@ -1,3 +1,11 @@
+### 13.10.2025 Backlog cleanup 
+I saw bunch of movies and plays I would like to remember so in no particular order
+    - One Battle After Another -> I had a fun and bougth a Pynchon book the next day
+    - Sirat -> I started to listen Techno, best movie of the year so far!
+    - Americká jízda = Set of plays on the "america" theme from Drak threathre in my hometown. It is a theathre focused on kids/teenagers but I love their plays anyway. 
+        - Huckleberry Finn -> I loved it, great acting, great stage.
+        - White Fang -> Great idea with camera play as the dogs POV but the theme did not suit me
+        - Route -> Kerouackish play about growing up on the road, about non conformity and the price of it 
 
 ### 12.10.2025 visma vuelta aftermovie
 i just love them, one hour, few look behind the scenes, some emotions...
