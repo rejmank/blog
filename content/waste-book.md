@@ -1,3 +1,14 @@
+### 15.10.2025 Reading plan for the rest of the year
+The end of the year is scarry close so time to wrap up the reading plan for this year
+
+- Do hard things (50% in 150 pages remaining)
+- Secret lives of Romans (30% in 100 pages remaining)
+- Solitary confinment (120 pages)
+- Last two books of books of the new sun (700 pages)
+- Memories of Ice (992 pages)
+- Bleeding Edge (512 pages, Christmas Read)
+So it makes about 2500 pages for 78 days or about ~35 pages per day.  
+
 ### 13.10.2025 Backlog cleanup 
 I saw bunch of movies and plays I would like to remember so in no particular order
 
