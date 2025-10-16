@@ -1,3 +1,6 @@
+### 16.10.2025 Just dump it all there 
+Iam always looking for a better way to manage my brain fried by caffeine and Twitter fried brain (twitter sober for almost 4years now!). Recently I red a great article about someone managing their ADHD. One of the points was to dump all things into Todoist, so I tried to do so and man, it is great! We will see how long I will manage to use it but it has been month so far and still going strong.   
+
 ### 15.10.2025 Reading plan for the rest of the year
 The end of the year is scarry close so time to wrap up the reading plan for this year
 
