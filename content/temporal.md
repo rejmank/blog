@@ -4,10 +4,12 @@ This is introduction to Temporal
 ## What is Temporal
 
 ## Most important properties
-- UI
-- Restart from any point
-- Any wait time
-- Automatic retries
+ durable long running workflows
+ UI
+ Restart from any point
+ Any wait time
+ Automatic retries
+ We can change workflow during runtime (with limitations)
 
 # Basics
 Temporal is a way to create pipelines that takes care of the things "around"
