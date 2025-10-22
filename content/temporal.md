@@ -50,6 +50,9 @@ Each function call need to resolve within 2 seconds or we receive a warning abou
 ## Not failing activities
 Inifinite retries, timed out workflows. In this setup we can fix issues and the workflows resume with next retry
 
+## Always have fallback!
+1% of failing when you have 1K workflows/day is still a lot of workflows to restart
+
 ## Issues monitoring
 we are still learning there
 
