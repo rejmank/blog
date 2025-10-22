@@ -30,6 +30,10 @@ h1::after {
     color: blue;
 }
 
+h1 {
+    font-size: 1.5rem;
+}
+
 p {
     font-family: "Fira Sans", sans-serif;
     line-height: 1.5;
