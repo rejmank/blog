@@ -1,3 +1,7 @@
+### 22.10.2025 Munich
+I spend three days in Munich with my son. We had great time. Managed to visit BMW museum (3 of 5, figured out that the cars themselves are not enough...), BMW Velt (3 of 5, he got free toy car and we spend bunch of time drawing cars in the Kids area). Munich technical museum (deutches museum) - Highlight of the trip, Kid loved it, I loved it and we did not even saw everything. If I would visit this museum as 10 years old kid, I would need to be forced out of the museum. Even for the 3 yaear old, there were a lot of interactive stuff, kids area with fire truck made into obstacle course it was great. 
+We managed the 5 hour drive pretty well and a pro tip, get an apartman, with kid it is so much easier when you have some room to play in the evening and a kitchen to prepare at least a tea. 
+
 ### 16.10.2025 Just dump it all there 
 Iam always looking for a better way to manage my brain fried by caffeine and Twitter (twitter sober for almost 4years now!). Recently I red a great article about someone managing their ADHD. One of the points was to dump all things into Todoist, so I tried to do so and man, it is great! We will see how long I will manage to use it but it has been month so far and still going strong.   
 
