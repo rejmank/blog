@@ -2,7 +2,7 @@
 This is introduction to Temporal
 
 ## What is Temporal
-Temporal is a workflow management system similar to Argo workflows or Step Functions. Temporal is a way to create pipelines that takes care of the things "around".
+Temporal is a workflow management system similar to Argo workflows or Step Functions. Temporal is a way to create pipelines that takes care of the things "around". You can chain workflows, run multiple activities in parrallel and all the good thinkgs.
 
 ## Most important properties
  durable long running workflows - no limit for how long workflow can run
@@ -43,7 +43,7 @@ All activities input/outputs are saved in DB, that is why there is a 2mb limit f
 Doing changes to workflows can be a bit painfull. Because the temporal need to be able to determine how to replay the workflow, we cannot do breaking changes to the workflow. There is a way to do this - [patches](https://github.com/parrot-com/parrot/blob/5cc281d257ead35d6a4f284d855911a247ef06cd/backend/parrot/pipelines/medical_summary/merge_medical_records_workflow.py#L271). Without patching workflows we get non-deterministi-error that unfortunately does not terminate workflow so the workflow still seems to be "running" but it is in an error state...
 
 ## Workflow should just run activities
-Each function call need to resolve within 2 seconds or we receive a warning about possible stuck workflow. This mean that all thinkgs that might take longer need to be done inside activity (any LLM calls, any S3 downloads, any loops...)
+Each function call need to resolve within 2 seconds or we receive a warning about possible stuck workflow. This mean that all things that might take longer need to be done inside activity (any LLM calls, any S3 downloads, any loops...)
 
 # Learned along the way
 
