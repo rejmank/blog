@@ -1,3 +1,6 @@
+### 23.10.2025 raise the floor
+today was not the most productive day. For some reason I could not focus and just switched from one thing to another. But still, I finished some things. A few moths back I would probably just wasted the day. what changed? I raised the floor. My worst days are not as bad as they used to be. High minumum is always more important than high maximum. 
+
 ### 22.10.2025 Munich
 I spend three days in Munich with my son. We had great time. Managed to visit BMW museum (3 of 5, figured out that the cars themselves are not enough...), BMW Velt (3 of 5, he got free toy car and we spend bunch of time drawing cars in the Kids area). Munich technical museum (deutches museum) - Highlight of the trip, Kid loved it, I loved it and we did not even saw everything. If I would visit this museum as 10 years old kid, I would need to be forced out of the museum. Even for the 3 yaear old, there were a lot of interactive stuff, kids area with fire truck made into obstacle course it was great. 
 We managed the 5 hour drive pretty well and a pro tip, get an apartman, with kid it is so much easier when you have some room to play in the evening and a kitchen to prepare at least a tea. 
