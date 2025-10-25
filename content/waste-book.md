@@ -1,3 +1,6 @@
+### 25.10.2025 Fifth element
+There was a screening of the fifth element in a local cinema, while we had free evening so why not? And I can see why this movie was such a hit, on the other hand it did not aged that well. It was green, not super-green. 
+
 ### 23.10.2025 raise the floor
 today was not the most productive day. For some reason I could not focus and just switched from one thing to another. But still, I finished some things. A few moths back I would probably just wasted the day. what changed? I raised the floor. My worst days are not as bad as they used to be. High minumum is always more important than high maximum. 
 
