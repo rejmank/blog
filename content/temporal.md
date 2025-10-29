@@ -34,6 +34,14 @@ Controll plane that makes the workflow possible
 ## How does all this connects?
 We write worfklow, the Temporal controll plane runs it and saves all inputs/Outputs to DB. This allow temporal to later replay the steps the workflow took. Individual activities are then run inside workers which are simply K8S pods inside our cluster.
 
+# Advanced concepts that we use
+
+## Interceptors
+A way to do something before or after something is scheduled/finishes. We use this to do error handling and sentry integration. Think of it as a middleware in django.
+
+## Signals
+Signal allows you to communicate with already runnign workflows or start a new one when the requested does not exists. We use this for merging workflows where we signal that the upload was processed and the results can be merged.
+
 # Limitations
 
 ## 2mb limit I/O
