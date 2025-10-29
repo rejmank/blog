@@ -1,3 +1,6 @@
+### 30.10 FVLCRVM - EERC
+This recording is a nice suprise. Colorfull electronic, funny with a lot of great touches. 4/5 Euro disco song as one of my favourites was not on my bingo. 
+
 ### 29.10.2025 Elemental
 Ok story, funny 3/5? (Iam maybee too positive because I did not had to watch cars for like 100th time this year...)
 
