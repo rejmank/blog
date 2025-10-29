@@ -1,3 +1,6 @@
+### 29.10.2025 Elemental
+Ok story, funny 3/5? (Iam maybee too positive because I did not had to watch cars for like 100th time this year...)
+
 ### 25.10.2025 Fifth element
 There was a screening of the fifth element in a local cinema, and it was right when we had free evening so why not? And I can see why this movie was such a hit, on the other hand it did not aged that well. It was green, not super-green. 
 
