@@ -42,6 +42,12 @@ A way to do something before or after something is scheduled/finishes. We use th
 ## Signals
 Signal allows you to communicate with already runnign workflows or start a new one when the requested does not exists. We use this for merging workflows where we signal that the upload was processed and the results can be merged.
 
+## Search attributes
+By using search attributes, you can filter down workflows in UI or CLI. When seting up a search attributes, you need to have two things in mind:
+
+1. To use Keyword not text when you want to have exact matches (learned the hard way)
+2. You need to first add search attribute to the temporal cloud using cli (also learned the hard way)
+
 # Limitations
 
 ## 2mb limit I/O
