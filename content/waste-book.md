@@ -1,3 +1,6 @@
+### 31.10 Helix
+I did not changed my editor in a year... so a time for change I guess? Iam kind of happy with a Zed but there are still things that I miss from emacs. File exploler, modeline, magit. I tried to install back emacs and after using zed the experience is just slugish. So i installed Helix. So far the experience is fine, things work out of the box, the "simplified" wim is starting to grow on me. I need to figure out Git and som LLM integration and I will have my next editor, probably.
+
 ### 30.10 FVLCRVM - EERC
 This recording is a nice suprise. Colorfull electronic, funny with a lot of great touches. 4/5 Euro disco song as one of my favourites was not on my bingo. 
 
