@@ -1,3 +1,6 @@
+### 7.11 Rage
+I just finished new issue of newsletter by Pavlina Louzenska about [rage](https://pavlinaspeaks.substack.com/p/ahoj-vol90-vztek) and it was great. As usual. I always discover how much of my day to day experience is dictated by social media and people who just want to provoke some reaction to sell me something. And that is no coincidence, it is by design and it is scary. This morning I almost reacted to some stupid meme that some stupid fuck interpreted as a reality (fuck it had MEME written on it, what else do you need?) and reading this newsletter just confirmed that Iam not alone in this feelings. Btw do not argue on internet with strangers, it is newer worth it. 
+
 ### 3.11. Are fixing bugs early in cycle really 100% cheaper?
 https://buttondown.com/hillelwayne/archive/i-ing-hate-science/
 
