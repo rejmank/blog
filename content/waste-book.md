@@ -1,3 +1,6 @@
+### 16.11 Spinkaci pohadka - divadlo drak
+fuck, i just love this threatre company. Story about bed time from chillds perspective and also parents. Funny, dreamy, great. 
+
 ### 11.11 Cargo cults everywhere
 I just did some small research on management, mainly by reading few blog posts and revisiting my old notes from books. After reading few articles one phrase just struck me "that is the play now". It looks like all the companies, management, everyone just follows the same playbook, doing the same things as others and expect to win over others somehow... Or they are just doing parades hoping the plane will drop them some goods.
 ### 7.11 Rage
