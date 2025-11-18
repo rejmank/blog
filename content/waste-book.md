@@ -1,3 +1,6 @@
+### 17.11 soft kill - watch it burn
+Music to dance to when the world ends. 
+
 ### 16.11 Spinkaci pohadka - divadlo drak
 fuck, i just love this threatre company. Story about bed time from chillds perspective and also parents. Funny, dreamy, great. 
 
