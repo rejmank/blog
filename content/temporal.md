@@ -70,6 +70,12 @@ Inifinite retries, timed out workflows. In this setup we can fix issues and the 
 ## Issues monitoring
 we are still learning there
 
+## [Continue as a new](https://docs.temporal.io/workflow-execution/continue-as-new)
+API for workflows that might have too long history
+
+## Do not use V2, V3, V4... into activity names
+Withe temporal renaming in workflows, involves at least two steps (patch, new nam, old name remove patch...). There is usually some better name. Try to thing what changed in this version? You will thank me later. 
+
 ## Running child workflows
 1. Do not fail parent workflows
 2. Use [this](https://github.com/parrot-com/parrot/blob/debba7d1d9fab463e11f65b9b4811fce07607df3/backend/parrot/pipelines/helpers.py#L325)
