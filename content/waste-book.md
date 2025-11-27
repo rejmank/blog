@@ -1,3 +1,6 @@
+### 27.11 Hackelore 
+http://hacklore.org/
+
 ### 17.11 soft kill - watch it burn
 Music to dance to when the world ends. 
 
