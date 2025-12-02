@@ -1,3 +1,6 @@
+### 2.12 50m znak - nadechnout se
+<3 
+
 ### 30.11 Only murders in the building
 When you want agatha christie, and you do not want to think much about it, this is the show. Binged second serie on the train from Berlin and we had a good time. 
 
