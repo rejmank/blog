@@ -1,3 +1,6 @@
+### 8.12 Reading status
+I have two books left to finish this year. Iam on ~300 page in the bleeding edge and have not yet started the next Malaz book. I also abandoned the solitary confinment, jsut not in the mood right now. So now I have about 1K pages left with 22 days left till end of year. So about ~50 pages day. With christmas and (hopefully) a lof of time for reading, this should be doable. And I count on the next malaz being page turner. 
+
 ### 2.12 50m znak - nadechnout se
 <3 
 
