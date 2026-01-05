@@ -14,5 +14,5 @@
 ### Work 
 - At least 30 blocks/week
 - Finish the filters project
-- Use AI daily to access it (at least)
+- Use AI daily to asses it (at least)
   
