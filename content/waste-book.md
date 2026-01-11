@@ -1,3 +1,7 @@
+### 11.1 Consistency always beats effort 
+Another mental model to have 
+https://boz.com/articles/think-pavlov
+
 ### 5.1 Year in DBs
 cannot remember when was the last time I clicked on so many links. The information density is great!
 https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
