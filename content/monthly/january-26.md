@@ -16,3 +16,9 @@
 - Finish the filters project
 - Use AI daily to asses it (at least)
   
+
+### week1
+- food ok, maybe friday/saturday be more diligent with writing
+- work was fine, more focus, better blocks
+- sport was maybe too much, we will see how much I can handle today
+- no progress on alexandria
