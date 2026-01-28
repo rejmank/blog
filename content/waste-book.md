@@ -1,3 +1,8 @@
+### 28.1.2026 one battle after another second time
+better than first time
+
+## 2026
+
 ### 11.1 Consistency always beats effort 
 Another mental model to have 
 https://boz.com/articles/think-pavlov
