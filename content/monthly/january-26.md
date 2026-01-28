@@ -22,3 +22,8 @@
 - work was fine, more focus, better blocks
 - sport was maybe too much, we will see how much I can handle today
 - no progress on alexandria
+
+### week2 + week3
+- food kind of ok, was sick first week but under 96
+- work, finishing project its a lot
+- sport i get back quickly after the sickness
