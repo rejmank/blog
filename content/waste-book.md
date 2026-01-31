@@ -1,3 +1,10 @@
+### 31.1 Sinners
+I will be listening the soundrack next month for sure. Also it is not a horror. And its great!
+
+### 30.1 la degu
+If you want to eat at a restaurant for as long as I wanted in la degu, it is easy to be dissapointed. I am so glad that this was not that case! The whole dinner was awesome. From the amis bouche to petit fours. Highlights were first two courses (fish, cabbage) and the non alcoholic pairing. The carrot one bring back a memory of my mother cooking for us a salad from apples, carrot and horseradish. I totaly forgot that and sipping the dring was like getting back in time. An also the somelier was
+awesome!
+
 ### 28.1.2026 one battle after another second time
 better than first time
 
