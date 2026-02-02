@@ -1,5 +1,5 @@
 ---
-title: Memories of the Ice by Steven Erikson
+title: Memories of Ice by Steven Erikson
 author:
 - Rejman Jiří
 tags:
