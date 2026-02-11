@@ -10,7 +10,7 @@ categories:
 draft: false
 rating: 5
 image: https://m.media-amazon.com/images/I/81pcTFmY+TL._SL1500_.jpg
-order: 250430
+order: 251220
 amazon: https://thomaspynchon.com/pynchon-cover-art/bleeding-edge/
 ---
 
