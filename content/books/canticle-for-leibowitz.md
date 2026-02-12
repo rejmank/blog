@@ -9,7 +9,7 @@ categories:
 - books
 draft: false
 rating: 4
-image: https://en.wikipedia.org/wiki/File:A_Canticle_for_Leibowitz_cover_1st_ed.jpg
+image: https://m.media-amazon.com/images/I/71lXLtOjhfL._SL1500_.jpg
 order: 260211
 amazon: https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz
 ---
