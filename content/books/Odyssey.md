@@ -3,7 +3,7 @@ title: Odyssey by Homer
 author:
 - Rejman Jiří
 tags:
-- histoty
+- history
 - classics
 categories:
 - category1
