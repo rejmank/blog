@@ -1,3 +1,19 @@
+## wekk2 
+### sport
+- Good one, but the achiles is feeling it... Will slow down with running for
+- Not much bike because I was putting the bike together, but we will make up for it
+- Almost two months without bjj! I need to do something with that
+- Weight not mooving much, focus on that
+### Reading 
+- ok week? Maybe bit less than I would like to
+- Wrote some reviews
+### Work
+- Good progress on projects, maybe bit more focus
+- Finish open todos, cleanup monday
+- Focus on good DD 
+## Other
+- I really need to find time for side projects
+
 ## week1
 - Work was good, steady effort, two times in Prague
 - Next week will be intensive
