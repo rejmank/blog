@@ -1,3 +1,6 @@
+### 23.2 Fontaines D.C.
+After a long long time band where i systematically listen everything
+
 ### 31.1 Sinners
 I will be listening the soundrack next month for sure. Also it is not a horror. And its great!
 
