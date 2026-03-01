@@ -1,4 +1,18 @@
-## wekk2 
+## week2 and 3
+### sport
+- pretty consistent running, getting faster
+- new bike day!
+### reading
+- finished zapotocky, starting with history of portugal
+- listening to ursula k le guinm
+- kind of... ok
+- reading tech book again!
+### other
+- need to start logging food again
+
+
+
+## week2 
 ### sport
 - Good one, but the achiles is feeling it... Will slow down with running for
 - Not much bike because I was putting the bike together, but we will make up for it
