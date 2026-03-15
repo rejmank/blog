@@ -1,4 +1,19 @@
-## week2 and 3
+# Full recap
+
+## Work
+- Finished good project
+- Startet do preparing new one, pretty happy so far
+## Sport
+- Preparing for half marathon, and biking
+- Iam really consistent
+## Food
+- starting to go down...
+
+## Reading 
+- Not as good as I would like to
+- More listening maybe?
+
+## week3 and 4
 ### sport
 - pretty consistent running, getting faster
 - new bike day!
