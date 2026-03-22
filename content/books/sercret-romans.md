@@ -16,3 +16,4 @@ amazon: https://www.albatrosmedia.cz/tituly/89116307/tajny-zivot-rimanu/
 
 I do not remember much from this book. Maybe because it kind of blends with SPQR that was excelent. It was not a bad book but not remembering anything is not a good sign. So 3 seems appropriate.
 <!--more-->
+
