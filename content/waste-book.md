@@ -1,3 +1,6 @@
+### 21.3 poberta
+good czech movie? yes, funny enoug, not taking itself too serious and not overly bittersweet. 
+
 ### 23.2 Fontaines D.C.
 After a long long time band where i systematically listen everything
 
