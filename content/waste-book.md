@@ -1,3 +1,17 @@
+### 13.4 Portugal 
+Just few thougths about Portugal after our vacation in Porto and Lisbon 
+
+- Lisbon > Porto (probably unpopular opinion)
+- They drive their cars everywhere. I hate it
+- The playgrounds for kids are great most of the time
+- Food is ok to good
+- Francesinha + beer + football in restaurant where the server cannot speak english? Hell yea!
+- I think one football stadium tour was enough for a life, I would maybe go to some new stadium to check the difference with the stadium in Porto
+- Martimee museum in Lisbon is great
+- Porto and lisbon are not great running destinations, but i squeezed in few good runs
+- Weather was awesome!
+- Ideall program with kid is 1 main attraction, food, playground. Sometimes you squeeze in coffee in the middle
+
 ### 21.3 poberta
 good czech movie? yes, funny enoug, not taking itself too serious and not overly bittersweet. 
 
