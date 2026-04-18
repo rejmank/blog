@@ -1,3 +1,6 @@
+### 17.4 Certova babicka - divadlo drak
+Iam have never seen a bad piece at Drak. Great scene but peak was the live music. Love drak
+
 ### 13.4 Portugal 
 Just few thougths about Portugal after our vacation in Porto and Lisbon 
 
