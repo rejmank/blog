@@ -3,6 +3,7 @@ There are a lot of articles about using AI or how AI will totally destroy everyt
 
 ## The basics
 There are a few talks and papers that formed my basic understanding of what programming (or engineering) is and I think most of them remain unchanged. 
+
 1. [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf) - the treasure is the ~friends~ mental models we made during the adventure
 2. [Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4)
 3. https://haskellforall.com/imgs/a-sufficiently-detailed-spec-is-code/comic.jpg 
