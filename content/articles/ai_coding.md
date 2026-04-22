@@ -1,3 +1,5 @@
+# AI Coding
+This is my notes, article backlog, and finding from workign with AI. 
 ## why
 There are a lot of articles about using AI or how AI will totally destroy everything and change everything. I wanted to try for myself and not write any of the clichés (I already have a bingo card). I started to really dig into the tools myself in the last 3 months and I have some findings that I would like to share.
 
