@@ -1,3 +1,9 @@
+### 25.4 Drama
+Funny, cringy, with a great ending. It was hard to watch while being great and funny at the same time. Her friend is the real bad one here. Movie of the year so far
+
+### 18.4 Hurvinek
+Cinema version, it was ok. But we were in drak the day before and drak was clearly better
+
 ### 17.4 Certova babicka - divadlo drak
 Iam have never seen a bad piece at Drak. Great scene but peak was the live music. Love drak
 
