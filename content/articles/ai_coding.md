@@ -56,3 +56,5 @@ On non determinism and semantics
 https://isaacvando.com/nondeterminisms-not-the-problem
 More is not always more 
 https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
+Interesting first few paragraphs about skills writing 
+https://addyosmani.com/blog/agent-skills/
