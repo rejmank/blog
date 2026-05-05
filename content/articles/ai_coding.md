@@ -51,4 +51,6 @@ I would like to explore more of the tooling. I bet that there will be some good 
 Agentic testing. The agents might be really useful for testing. But I did not have time to try them yet.
 
 ## Wana read more?
-TODO - add articles
+Just a bunch of articles I found interesing 
+On non determinism and semantics 
+https://isaacvando.com/nondeterminisms-not-the-problem
