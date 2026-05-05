@@ -54,3 +54,5 @@ Agentic testing. The agents might be really useful for testing. But I did not ha
 Just a bunch of articles I found interesing 
 On non determinism and semantics 
 https://isaacvando.com/nondeterminisms-not-the-problem
+More is not always more 
+https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
