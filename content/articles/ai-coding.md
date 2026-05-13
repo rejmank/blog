@@ -46,9 +46,9 @@ I feel that usually the skill is something that could be vibe-coded in 30 minute
 ## Tooling
 I do not use any fancy skills. Use planning mode — the one in CC or Google one is more than enough.
 
-## Where next?
-I would like to explore more of the tooling. I bet that there will be some good skills I have not discovered yet so exploring more is the direction I would like to take. 
-Agentic testing. The agents might be really useful for testing. But I did not have time to try them yet.
+# PI and my own custom harness
+I started to working on my own codign agent. Mainly because I want to understand the technology and develop a better taste. 
+
 
 ## Wana read more?
 Just a bunch of articles I found interesing 
