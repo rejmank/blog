@@ -32,3 +32,4 @@
 ## Artificial inteligence 
 - this is good
 - nothing usefull but funny, great delivery, Enjoing tha
+- > Another technology where you can choose if it will make you dumber of smarter
