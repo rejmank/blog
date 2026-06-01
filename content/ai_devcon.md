@@ -38,3 +38,5 @@
 - really good technical talk
 - Lets try this inside a medchron
 - [ ] rewatch and make more detailed notes
+- malleable software - look into the essay
+- best talk so far
