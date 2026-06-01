@@ -44,3 +44,10 @@
 ## How AI-First dev teams Build Collective Inteligence
 - another AI context providing tool 
 - was ok
+
+## Harness engineering
+- OpenAI member of technical staff and start to talking about how they achieved a singularity OK bro
+- Code is free - LOL tell it to someone actually paing the bills... and the maintenance cost
+- So far this is all I hate about AI in single talk
+- it got bit practical basically shift right for guardrails 
+- [ ] check possible guardrails for medChron
