@@ -23,3 +23,8 @@
 - Agents should update the MD 
 - [ ] add self eval into Berlioz
 - good CLAUDE.md = no bus factor, good one
+- another talk that looked bit like an ad... but still better than the security one
+
+## Executable specs
+- I just wondered how expensive each test run is
+- Nothing that new 
