@@ -12,3 +12,8 @@
 - [ ] Add static analysis to Berlioz
 - skill test = eval
 - [ ] think about evals for Berlioz
+
+
+## Code security reinvented
+- for second time in two talks I hear that the models are not the bottleneck
+- kind of copilot ad...
