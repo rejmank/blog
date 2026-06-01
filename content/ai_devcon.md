@@ -28,3 +28,7 @@
 ## Executable specs
 - I just wondered how expensive each test run is
 - Nothing that new 
+
+## Artificial inteligence 
+- this is good
+- nothing usefull but funny, great delivery, Enjoing tha
