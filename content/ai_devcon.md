@@ -40,3 +40,7 @@
 - [ ] rewatch and make more detailed notes
 - malleable software - look into the essay
 - best talk so far
+
+## How AI-First dev teams Build Collective Inteligence
+- another AI context providing tool 
+- was ok
