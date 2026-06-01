@@ -17,3 +17,9 @@
 ## Code security reinvented
 - for second time in two talks I hear that the models are not the bottleneck
 - kind of copilot ad...
+
+
+## Human architect the system
+- Agents should update the MD 
+- [ ] add self eval into Berlioz
+- good CLAUDE.md = no bus factor, good one
