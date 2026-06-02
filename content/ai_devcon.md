@@ -69,3 +69,13 @@
 - [ ] How to work in the shared context with depos?
 - COntext outside of codebase (linear, notion, crm...)
 - Iam kind of missing more real world examples in all of the talks
+
+## From vibes to metrics
+- the otput diff between teams with and without AI is not linear and have big differecne between teams and individuals as well
+- is 10x reality now?
+- good talk, we should work on our setup
+- [ ] Berlioz should remember things
+- checkout the skill from the talk
+
+## Agentic repo
+- it feels like the big companies in general do not have great talks
