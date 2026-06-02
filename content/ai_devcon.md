@@ -51,3 +51,15 @@
 - So far this is all I hate about AI in single talk
 - it got bit practical basically shift right for guardrails 
 - [ ] check possible guardrails for medChron
+
+## Learning while you sleep
+- Anthropic staff... so far much better first impression than OpenAI 
+- skills -> memory - red and written by agents
+- feels really similar to the How AI-First dev teams Build Collective Inteligence
+- [ ] explore memory system for medchron
+- In-band memory
+
+# Day 1 recap 
+- Most of the talks was ok, but nothing incredible
+- Keynote and Pi related one was highlights
+- Food was great
