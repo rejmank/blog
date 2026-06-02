@@ -63,3 +63,9 @@
 - Most of the talks was ok, but nothing incredible
 - Keynote and Pi related one was highlights
 - Food was great
+
+## Harness engineering beyon doce 
+- harness -> Layer over codebase
+- [ ] How to work in the shared context with depos?
+- COntext outside of codebase (linear, notion, crm...)
+- Iam kind of missing more real world examples in all of the talks
