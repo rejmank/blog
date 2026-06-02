@@ -79,3 +79,4 @@
 
 ## Agentic repo
 - it feels like the big companies in general do not have great talks
+- second github talk, second advertisement
