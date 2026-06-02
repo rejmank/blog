@@ -80,3 +80,11 @@
 ## Agentic repo
 - it feels like the big companies in general do not have great talks
 - second github talk, second advertisement
+- [this](https://github.github.com/gh-aw/) might be usefull
+
+## You are absolutely right
+- please is not a security
+- sbx is the github solution 
+- finaly demo, nice!
+- [ ] try out https://docs.docker.com/reference/cli/sbx/
+- I like the talk, maybe because it is not another here is how we are solving context talk
