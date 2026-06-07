@@ -10,7 +10,7 @@ categories:
 - books
 draft: false
 rating: 5
-image: "https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun"
+image: "https://upload.wikimedia.org/wikipedia/en/a/a4/Booknewsun.jpg"
 order: 260607
 amazon: "https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun"
 ---
