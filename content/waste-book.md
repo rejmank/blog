@@ -1,3 +1,12 @@
+### Knights of seven kingdoms
+it was fine
+
+### Kneecap - FENIAN
+I can imagine better album from kneecap but this one is pretty good nevertheless
+
+### Slow horses
+I only watch TV shows on indoor bike nowadays and Slow Horses was great for that. First three seasons was great, the last one not so much. Would still watch next one.
+
 ### 25.4 Drama
 Funny, cringy, with a great ending. It was hard to watch while being great and funny at the same time. Her friend is the real bad one here. Movie of the year so far
 
