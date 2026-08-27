@@ -9,7 +9,7 @@ categories:
 draft: false
 rating: 3
 image: https://upload.wikimedia.org/wikipedia/en/0/0a/IainMBanksInversions.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original
-order: 250501
+order: 260830
 amazon: https://iainbanks.co.uk/the-works/inversions/
 ---
 
