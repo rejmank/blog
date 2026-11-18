@@ -9,7 +9,7 @@ categories:
 - books
 draft: false
 rating: 4
-image: https://en.wikipedia.org/wiki/File:LordofLight(Zelazny).jpg
+image: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71KBuunEP4L._SL1360_.jpg
 order: 261021
 amazon: https://en.wikipedia.org/wiki/Lord_of_Light
 ---
