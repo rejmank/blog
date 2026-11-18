@@ -14,7 +14,7 @@ order: 261021
 amazon: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 ---
 
-Another big backlog item finished. I really like Hobit and finished it severl times across years. I actually listened to a several hours of podcast about the LoTR lore but there were always other things to read. Until now. And I liked it. I supose Iam not in the right age for it to be a life chaning. I enjoyed how poetic the whole book is, how post apocaliptic and melancholic it all is. I will return
+Another big backlog item finished. I really like Hobit and finished it severl times across years. I actually listened to a several hours of podcast about the LoTR lore but there were always other things to read. Until now. And I liked it. I supose Iam not in the right age for it to be a life chaning. I enjoyed how poetic the whole book is, how post apocaliptic and melancholic is the atmospehre. I really felt the weight of the ring and the hardship of the last few miles. Yes, there are things that did not aged well (do you know that there are more named horses than women?), all the numenor pure blood shit and so on but the overall feeling is melancholy. 
 
 <!--more-->
 
